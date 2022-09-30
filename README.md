@@ -1,3 +1,4 @@
+- [How to create a free Oracle VPS with Python script (Out of capacity)?](https://www.hintdesk.com/2022/01/15/how-to-create-a-free-oracle-vps-with-python-script-out-of-capacity/) #oracle
 - [Reverse Proxies with Caddy :: Guru Computing Blog](https://blog.gurucomputing.com.au/reverse-proxies-with-caddy/) #docker#caddy#reverse-proxy
 - [Doing More with Docker :: Guru Computing Blog](https://blog.gurucomputing.com.au/doing-more-with-docker/) #docker#guide
 - [Using Remote VSCode :: Guru Computing Blog](https://blog.gurucomputing.com.au/linux-tips-and-tricks/using-remote-vscode/) #docker#vscode
