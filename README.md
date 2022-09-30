@@ -1,3 +1,4 @@
+- [selfhosted-apps-docker/caddy_v2 at master · DoTheEvo/selfhosted-apps-docker](https://github.com/DoTheEvo/selfhosted-apps-docker/tree/master/caddy_v2) #docker#caddy#reverse-proxy
 - [osmoscraft/osmosnote: The knowledge IDE](https://github.com/osmoscraft/osmosnote)
 - [osmoscraft/osmosnote: The knowledge IDE](https://github.com/osmoscraft/osmosnote)
 - [caronc/apprise: Apprise - Push Notifications that work with just about every platform!](https://github.com/caronc/apprise)
