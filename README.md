@@ -1,3 +1,4 @@
+- [YoRyan/mailrise: An SMTP gateway for Apprise notifications.](https://github.com/YoRyan/mailrise)
 - [caronc/apprise: Apprise - Push Notifications that work with just about every platform!](https://github.com/caronc/apprise)
 - [healthchecks/healthchecks: A cron monitoring tool written in Python & Django](https://github.com/healthchecks/healthchecks)
 - [selfhosted-apps-docker/caddy_v2 at master · DoTheEvo/selfhosted-apps-docker](https://github.com/DoTheEvo/selfhosted-apps-docker/tree/master/caddy_v2) #docker#caddy#reverse-proxy
