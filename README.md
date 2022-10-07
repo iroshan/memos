@@ -1,3 +1,4 @@
+- [Comprehensive NextCloud installation using Docker Compose the smart way](https://techsparx.com/software-development/docker/self-hosting/nextcloud.html) #docker#docker-compose#nextcloud
 - [YoRyan/mailrise: An SMTP gateway for Apprise notifications.](https://github.com/YoRyan/mailrise)
 - [caronc/apprise: Apprise - Push Notifications that work with just about every platform!](https://github.com/caronc/apprise)
 - [healthchecks/healthchecks: A cron monitoring tool written in Python & Django](https://github.com/healthchecks/healthchecks)
