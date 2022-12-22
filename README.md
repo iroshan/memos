@@ -1,3 +1,4 @@
+- [Addition and Subtraction Games](https://www.topmarks.co.uk/maths-games/5-7-years/addition-and-subtraction) Learning maths #ayuki#maths
 - [Comprehensive NextCloud installation using Docker Compose the smart way](https://techsparx.com/software-development/docker/self-hosting/nextcloud.html) #docker#docker-compose#nextcloud
 - [YoRyan/mailrise: An SMTP gateway for Apprise notifications.](https://github.com/YoRyan/mailrise)
 - [caronc/apprise: Apprise - Push Notifications that work with just about every platform!](https://github.com/caronc/apprise)
