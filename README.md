@@ -1,3 +1,4 @@
+- [Daham Vila Buddhist Monastery](http://dahamvila.blogspot.com/)
 - [Plab 2 Consultation Strategy](https://www.youtube.com/watch?v=gBDvlD8i1rA&list=PL7Zueo5pbx9NupAXSrQdmFB0zzNqRk4xl&index=1) #plab
 - [Addition and Subtraction Games](https://www.topmarks.co.uk/maths-games/5-7-years/addition-and-subtraction) Learning maths #ayuki#maths
 - [Comprehensive NextCloud installation using Docker Compose the smart way](https://techsparx.com/software-development/docker/self-hosting/nextcloud.html) #docker#docker-compose#nextcloud
