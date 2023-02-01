@@ -1,3 +1,4 @@
+- [Private Lessons & Group Classes with Local & Online Teachers - TakeLessons](https://takelessons.com)
 - [Bana](https://www.mediafire.com/folder/xcenb88qd6x2l/CD)
 - [Daham Vila Buddhist Monastery](http://dahamvila.blogspot.com/)
 - [Plab 2 Consultation Strategy](https://www.youtube.com/watch?v=gBDvlD8i1rA&list=PL7Zueo5pbx9NupAXSrQdmFB0zzNqRk4xl&index=1) #plab
