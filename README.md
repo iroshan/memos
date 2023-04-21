@@ -1,3 +1,4 @@
+- [Explaining medical conditions](https://www.pennine-gp-training.co.uk/Explaining%20medical%20conditions)
 - [7 Minute Timer - Online Stopwatch](https://www.online-stopwatch.com/timer/7minute/)
 - [Freedom Homeschooling - Free Homeschool Science Curriculum](https://freedomhomeschooling.com/science/)
 - [DD Windows OS to Cloud Linux VM (Oracle /GCP /Azure)](http://blog.51sec.org/2020/05/dd-windows-7-64b-to-oracle-cloud-ubuntu.html)
