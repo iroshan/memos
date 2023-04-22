@@ -1,3 +1,4 @@
+- [PLAB 2 7 minutes practice - Interval Timer](https://www.intervaltimer.com/timers/11603922-plab-2-7-minutes-practice)
 - [Explaining medical conditions](https://www.pennine-gp-training.co.uk/Explaining%20medical%20conditions)
 - [7 Minute Timer - Online Stopwatch](https://www.online-stopwatch.com/timer/7minute/)
 - [Freedom Homeschooling - Free Homeschool Science Curriculum](https://freedomhomeschooling.com/science/)
