@@ -1,3 +1,4 @@
+- [Free  Tarot practice session](https://www.eventbrite.co.uk/e/free-tarot-practice-session-tickets-650757431997)
 - [15 Thoughtful Birthday Messages](https://www.grammarly.com/blog/birthday-wishes/)
 - [PLAB 2 7 minutes practice - Interval Timer](https://www.intervaltimer.com/timers/11603922-plab-2-7-minutes-practice)
 - [Explaining medical conditions](https://www.pennine-gp-training.co.uk/Explaining%20medical%20conditions)
