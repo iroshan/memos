@@ -1,3 +1,4 @@
+- [Mind Music - Soothing Vibrations Music For Your Brain](https://www.mindamend.com/brainwave-entrainment/mind-music/)
 - [24 of the best film scenes to test surround sound](https://www.whathifi.com/features/best-film-scenes-to-test-surround-sound)
 - [24 of the best film scenes to test surround sound](https://www.whathifi.com/features/best-film-scenes-to-test-surround-sound)
 - [Free  Tarot practice session](https://www.eventbrite.co.uk/e/free-tarot-practice-session-tickets-650757431997)
