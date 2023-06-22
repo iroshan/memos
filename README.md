@@ -1,3 +1,4 @@
+- [Amazon.com: People Can't Drive You Crazy If You Don't Give Them the Keys eBook : Bechtle, Dr. Mike: Kindle Store](https://www.amazon.com/People-Cant-Drive-Crazy-Dont-ebook/dp/B009G1PI2E)
 - [Help Me, I'm Stuck: Six Proven Methods to Shift Your Mindset From Self-Sabotage to Self-Improvement (The Help Me Series) - Kindle edition by Carter, Vaughn. Health, Fitness & Dieting Kindle eBooks @ Amazon.com.](https://www.amazon.com/Help-Me-Stuck-Self-Sabotage-Self-Improvement-ebook/dp/B09PJ63TDX)
 - [Amazon.com: People Can't Drive You Crazy If You Don't Give Them the Keys eBook : Bechtle, Dr. Mike: Kindle Store](https://www.amazon.com/People-Cant-Drive-Crazy-Dont-ebook/dp/B009G1PI2E)
 - [On My Own Side: Transform Self-Criticism and Doubt Into Permanent Self-Worth and Confidence - Kindle edition by Gazipura, Aziz . Self-Help Kindle eBooks @ Amazon.com.](https://www.amazon.com/Own-Side-Self-Criticism-Self-Worth-Confidence-ebook/dp/B08518QZ4S)
