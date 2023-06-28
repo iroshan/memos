@@ -1,3 +1,4 @@
+- [I'm a Harvard neuroscientist. Here's the No. 1 music I listen to when I need to focus—it's not classical](https://www.cnbc.com/2023/06/20/harvard-brain-expert-shares-best-type-of-music-for-focus-and-concentration.html)
 - [Friends Season 1-10 Complete BluRay 720p – Pahe.in](https://pahe.li/friends-season-1-10-complete-bluray-720p/)
 - [Amazon.com: People Can't Drive You Crazy If You Don't Give Them the Keys eBook : Bechtle, Dr. Mike: Kindle Store](https://www.amazon.com/People-Cant-Drive-Crazy-Dont-ebook/dp/B009G1PI2E)
 - [Help Me, I'm Stuck: Six Proven Methods to Shift Your Mindset From Self-Sabotage to Self-Improvement (The Help Me Series) - Kindle edition by Carter, Vaughn. Health, Fitness & Dieting Kindle eBooks @ Amazon.com.](https://www.amazon.com/Help-Me-Stuck-Self-Sabotage-Self-Improvement-ebook/dp/B09PJ63TDX)
