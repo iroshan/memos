@@ -1,3 +1,4 @@
+- [Sony WH-1000XM5 review](https://www.soundguys.com/sony-wh-1000xm5-review-71783/)
 - [HeSuVi / Wiki / Usage of the Graphical User Interface](https://sourceforge.net/p/hesuvi/wiki/Usage%20of%20the%20Graphical%20User%20Interface/)
 - [I'm a Harvard neuroscientist. Here's the No. 1 music I listen to when I need to focus—it's not classical](https://www.cnbc.com/2023/06/20/harvard-brain-expert-shares-best-type-of-music-for-focus-and-concentration.html)
 - [Friends Season 1-10 Complete BluRay 720p – Pahe.in](https://pahe.li/friends-season-1-10-complete-bluray-720p/)
