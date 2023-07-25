@@ -1,3 +1,4 @@
+- [How to setup AdGuard Home on a public server](https://adguard.com/en/blog/adguard-home-on-public-server.html)
 - [GitHub - vaxilu/x-ui: 支持多协议多用户的 xray 面板](https://github.com/vaxilu/x-ui)
 - [Crysis Walkthrough Recovery](https://portforward.com/games/walkthroughs/Crysis/Recovery.htm)
 - [Headphone 7.1 Surround Comparison (GSX vs SBX vs Atmos vs CMSS vs DH vs DTSH:X vs Sonic vs HRTF)](https://www.youtube.com/watch?v=WlqpG2euh50)
