@@ -1,3 +1,4 @@
+- [Far Cry Free Download « IGGGAMES](https://igg-games.com/far-cry-pc-582632615-free-download.html)
 - [How to setup AdGuard Home on a public server](https://adguard.com/en/blog/adguard-home-on-public-server.html)
 - [GitHub - vaxilu/x-ui: 支持多协议多用户的 xray 面板](https://github.com/vaxilu/x-ui)
 - [Crysis Walkthrough Recovery](https://portforward.com/games/walkthroughs/Crysis/Recovery.htm)
