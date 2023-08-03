@@ -1,3 +1,4 @@
+- [r/PiratedGames - Pirated Games Megathread](https://www.reddit.com/r/PiratedGames/comments/a5mu2a/pirated_games_megathread/)
 - [Games free download | best site to download free games - WorldSrc](https://worldsrc.net/games/)
 - [Far Cry Free Download (v1.3) - Repack-Games](https://repack-games.com/far-cry-free-download-v5/)
 - [Far Cry Free Download « IGGGAMES](https://igg-games.com/far-cry-pc-582632615-free-download.html)
