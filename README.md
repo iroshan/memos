@@ -1,3 +1,4 @@
+- [CLI tip 1: remove metadata from images - YouTube](https://www.youtube.com/watch?v=p0KCLusMd5Q&list=PLTv2U3HnAL4PNTmRqZBSUgKaiHbRL2zeY)
 - [Welcome | Doctors Speak Up](/home)
 - [Citizens Advice](https://www.citizensadvice.org.uk/)
 - [NHS Induction Programme for International Medical Graduates - elearning for healthcare](https://www.e-lfh.org.uk/programmes/nhs-induction-programme-for-international-medical-graduates/)
