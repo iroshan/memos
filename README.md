@@ -1,3 +1,4 @@
+- [What are the NHS values](https://www.nhsprofessionals.nhs.uk/nhs-staffing-pool-hub/working-in-healthcare/what-are-the-nhs-values)
 - [The 6 NHS Core Values (Explained!)](https://www.youtube.com/watch?v=QGtQUmYRfbM)
 - [V1PER](https://odysee.com/@V1PER:4?view=content)
 - [CLI tip 1: remove metadata from images - YouTube](https://www.youtube.com/watch?v=p0KCLusMd5Q&list=PLTv2U3HnAL4PNTmRqZBSUgKaiHbRL2zeY)
