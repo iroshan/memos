@@ -1,3 +1,4 @@
+- [Recommendations | Secondary bacterial infection of eczema and other common skin conditions: antimicrobial prescribing | Guidance | NICE](https://www.nice.org.uk/guidance/ng190/chapter/recommendations#choice-of-antibiotic)
 - [Scenario: Management | Management | Fungal skin infection - scalp | CKS | NICE](https://cks.nice.org.uk/topics/fungal-skin-infection-scalp/management/management/)
 - [Vertigo | Health topics A to Z | CKS | NICE](https://cks.nice.org.uk/topics/vertigo/)
 - [Vestibular neuronitis | Health topics A to Z | CKS | NICE](https://cks.nice.org.uk/topics/vestibular-neuronitis/)
