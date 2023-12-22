@@ -1,3 +1,4 @@
+- [Scenario: Management | Management | Fungal skin infection - scalp | CKS | NICE](https://cks.nice.org.uk/topics/fungal-skin-infection-scalp/management/management/)
 - [Vertigo | Health topics A to Z | CKS | NICE](https://cks.nice.org.uk/topics/vertigo/)
 - [Vestibular neuronitis | Health topics A to Z | CKS | NICE](https://cks.nice.org.uk/topics/vestibular-neuronitis/)
 - [Benign paroxysmal positional vertigo | Health topics A to Z | CKS | NICE](https://cks.nice.org.uk/topics/benign-paroxysmal-positional-vertigo/)
