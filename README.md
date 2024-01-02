@@ -1,3 +1,4 @@
+- [iroshan](https://github.com/iroshan)
 - [Scenario: Adult gastroenteritis | Management | Gastroenteritis | CKS | NICE](https://cks.nice.org.uk/topics/gastroenteritis/management/adult-gastroenteritis/)
 - [Sample questions | Workforce, training and education](https://medical.hee.nhs.uk/medical-training-recruitment/medical-specialty-training/public-health/public-health-assessment-centre/sample-questions)
 - [Recommendations | Secondary bacterial infection of eczema and other common skin conditions: antimicrobial prescribing | Guidance | NICE](https://www.nice.org.uk/guidance/ng190/chapter/recommendations#choice-of-antibiotic)
