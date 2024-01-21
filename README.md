@@ -1,3 +1,4 @@
+- [Lung Ultrasound Image Interpretation](https://www.youtube.com/playlist?list=PLou2bxyKB1fkBD7ZBPiQcYKsS1mDpnYjZ)
 - [Lung Ultrasound Image Interpretation](https://www.youtube.com/watch?v=Y9Hv84m3kOM&t=9s)
 - [Lung Ultrasound - Interpretation Tutorial](https://www.youtube.com/watch?v=uv6zI4QHYss&t=359s)
 - [FAMILY // Day 1 - Learn French for kids beginners](https://www.youtube.com/playlist?list=PLfj6M7XssZ0fNgLA3aEJJnfn6EYuvJgIk)
