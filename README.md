@@ -1,3 +1,4 @@
+- [How to scan the gallbladder & CBD](https://www.youtube.com/watch?v=X43Nng8aye0)
 - [PoCUS Gall Bladder](https://www.youtube.com/watch?v=3K8YmgAuVsg)
 - [Lung Ultrasound Image Interpretation](https://www.youtube.com/playlist?list=PLou2bxyKB1fkBD7ZBPiQcYKsS1mDpnYjZ)
 - [Lung Ultrasound Image Interpretation](https://www.youtube.com/watch?v=Y9Hv84m3kOM&t=9s)
