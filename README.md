@@ -1,3 +1,4 @@
+- [ultrasound: DILATED COMMON BILE DUCT](https://www.youtube.com/watch?v=ZsRiGTFjlhE)
 - [how to locate COMMON BILE DUCT by ultrasound](https://www.youtube.com/watch?v=8NOzIPxpMcc)
 - [How to scan the gallbladder & CBD](https://www.youtube.com/watch?v=X43Nng8aye0)
 - [PoCUS Gall Bladder](https://www.youtube.com/watch?v=3K8YmgAuVsg)
