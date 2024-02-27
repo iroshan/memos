@@ -1,3 +1,4 @@
+- [Docker Stop All Containers | One Command To Stop and/or Remove Every Docker Container](https://ioflood.com/blog/docker-stop-all-containers-one-command-to-stop-and-or-remove-every-docker-container/)
 - [Choledocholithiasis || Common Bile Duct Calculus || Ultrasound || Case 264](https://www.youtube.com/watch?v=jA_vi46GUp4)
 - [ultrasound: DILATED COMMON BILE DUCT](https://www.youtube.com/watch?v=ZsRiGTFjlhE)
 - [how to locate COMMON BILE DUCT by ultrasound](https://www.youtube.com/watch?v=8NOzIPxpMcc)
