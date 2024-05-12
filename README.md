@@ -1,3 +1,4 @@
+- [5 Minimalist Habits To Achieve Financial Freedom](https://www.forbes.com/sites/amyslenker-smith/2024/05/02/5-minimalist-habits-to-achieve-financial-freedom/)
 - [Docker Stop All Containers | One Command To Stop and/or Remove Every Docker Container](https://ioflood.com/blog/docker-stop-all-containers-one-command-to-stop-and-or-remove-every-docker-container/)
 - [Choledocholithiasis || Common Bile Duct Calculus || Ultrasound || Case 264](https://www.youtube.com/watch?v=jA_vi46GUp4)
 - [ultrasound: DILATED COMMON BILE DUCT](https://www.youtube.com/watch?v=ZsRiGTFjlhE)
