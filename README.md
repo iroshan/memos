@@ -1,3 +1,4 @@
+- [These One-Pot Dinners Make Clean-Up *So* Easy](https://food52.com/blog/28235-one-pot-dinners-for-easy-cleanup)
 - [New - RESOLVED | Google Pay randomly stopped working. Doesn't meet security requirements | Xiaomi 14 Ultra](https://xiaomi.eu/community/threads/resolved-google-pay-randomly-stopped-working-doesnt-meet-security-requirements-xiaomi-14-ultra.73070/)
 - [5 Minimalist Habits To Achieve Financial Freedom](https://www.forbes.com/sites/amyslenker-smith/2024/05/02/5-minimalist-habits-to-achieve-financial-freedom/)
 - [Docker Stop All Containers | One Command To Stop and/or Remove Every Docker Container](https://ioflood.com/blog/docker-stop-all-containers-one-command-to-stop-and-or-remove-every-docker-container/)
