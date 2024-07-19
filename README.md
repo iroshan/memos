@@ -1,3 +1,4 @@
+- [Trump shooting: The footage you didn’t see](https://www.telegraph.co.uk/world-news/2024/07/16/donald-trump-shooting-what-you-didnt-see-behind-the-scenes/)
 - [What drinking coffee every morning does to your gut health](https://www.telegraph.co.uk/health-fitness/diet/gut-health/coffee-gut-health/)
 - [These One-Pot Dinners Make Clean-Up *So* Easy](https://food52.com/blog/28235-one-pot-dinners-for-easy-cleanup)
 - [New - RESOLVED | Google Pay randomly stopped working. Doesn't meet security requirements | Xiaomi 14 Ultra](https://xiaomi.eu/community/threads/resolved-google-pay-randomly-stopped-working-doesnt-meet-security-requirements-xiaomi-14-ultra.73070/)
