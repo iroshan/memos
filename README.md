@@ -1,3 +1,4 @@
+- [Ten Ways to Make Your Time Matter](https://greatergood.berkeley.edu/article/item/ten_ways_to_make_your_time_matter)
 - [This 5-step method can quickly get a messy house back in order : Life Kit](https://www.npr.org/2023/04/19/1170846100/how-to-keep-house-clean)
 - [Transform Your Life with These 5 Daily Habits](https://camillestyles.com/wellness/how-to-have-a-good-day/)
 - [Trump shooting: The footage you didn’t see](https://www.telegraph.co.uk/world-news/2024/07/16/donald-trump-shooting-what-you-didnt-see-behind-the-scenes/)
