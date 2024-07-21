@@ -1,3 +1,4 @@
+- [Transform Your Life with These 5 Daily Habits](https://camillestyles.com/wellness/how-to-have-a-good-day/)
 - [Trump shooting: The footage you didn’t see](https://www.telegraph.co.uk/world-news/2024/07/16/donald-trump-shooting-what-you-didnt-see-behind-the-scenes/)
 - [What drinking coffee every morning does to your gut health](https://www.telegraph.co.uk/health-fitness/diet/gut-health/coffee-gut-health/)
 - [These One-Pot Dinners Make Clean-Up *So* Easy](https://food52.com/blog/28235-one-pot-dinners-for-easy-cleanup)
