@@ -1,3 +1,4 @@
+- [Income Tax rates and Personal Allowances](https://www.gov.uk/income-tax-rates)
 - [Peterborough City Council](https://www.peterborough.gov.uk/)
 - [The Great Afterlife](https://www.skeptic.com/reading_room/the-great-afterlife-debate/)
 - [Ten Ways to Make Your Time Matter](https://greatergood.berkeley.edu/article/item/ten_ways_to_make_your_time_matter)
