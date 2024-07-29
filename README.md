@@ -1,3 +1,4 @@
+- [STEMI is a Failed Paradigm, Enter Occlusion MI | ECG Cases | EM Cases](https://emergencymedicinecases.com/ecg-cases-stemi-occlusion-mi/)
 - [Re CR Mental Capacity Case](https://www.39essex.com/information-hub/case/re-cr)
 - [Overview | Looked-after children and young people | Guidance | NICE](https://www.nice.org.uk/guidance/ng205)
 - [Overview | Looked-after children and young people | Guidance | NICE](https://www.nice.org.uk/guidance/ng205)
