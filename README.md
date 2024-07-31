@@ -1,3 +1,4 @@
+- [Freecycle: Dashboard](https://www.freecycle.org/home/dashboard/)
 - [Supermarket shopping tips](https://www.moneysavingexpert.com/shopping/cheap-supermarket-shopping/)
 - [Supermarket coupons UK](https://www.moneysavingexpert.com/deals/supermarket-coupons/)
 - [Prepaid cards](https://www.moneysavingexpert.com/credit-cards/prepaid-cards/)
