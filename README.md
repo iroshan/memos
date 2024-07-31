@@ -1,3 +1,4 @@
+- [Supermarket shopping tips](https://www.moneysavingexpert.com/shopping/cheap-supermarket-shopping/)
 - [Supermarket coupons UK](https://www.moneysavingexpert.com/deals/supermarket-coupons/)
 - [Prepaid cards](https://www.moneysavingexpert.com/credit-cards/prepaid-cards/)
 - [NHS discounts and freebies](https://www.moneysavingexpert.com/deals/nhs-discounts-and-freebies/)
