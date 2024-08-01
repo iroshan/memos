@@ -1,3 +1,4 @@
+- [What Can Someone Do With Your Bank Account & Routing Number? | SoFi](https://www.sofi.com/learn/content/what-can-someone-do-with-your-bank-account-and-routing-number/)
 - [Personal](https://www.metrobankonline.co.uk/)
 - [Budgeting - UKPersonalFinance Wiki](https://ukpersonal.finance/budgeting/)
 - [UKPersonalFinance: Getting your pounds in order](https://www.reddit.com/r/UKPersonalFinance/)
