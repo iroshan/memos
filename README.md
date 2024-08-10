@@ -1,3 +1,4 @@
+- [Guideline for Management of Major Haemorrhage](https://pch-pathlab.com/cms/sites/default/files/documents/Guideline%20for%20Management%20of%20Major%20Haemorrhage.pdf)
 - [FACTSHEET
 Cytomegalovirus (CMV)
 Negative Blood Components](https://nhsbtdbe.blob.core.windows.net/umbraco-assets-corp/14652/blc7071.pdf)
