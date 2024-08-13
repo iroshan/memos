@@ -1,3 +1,4 @@
+- [POCO X6 Pro - Xiaomi UK](https://www.mi.com/uk/product/poco-x6-pro/)
 - [Guideline for Management of Major Haemorrhage](https://pch-pathlab.com/cms/sites/default/files/documents/Guideline%20for%20Management%20of%20Major%20Haemorrhage.pdf)
 - [FACTSHEET
 Cytomegalovirus (CMV)
