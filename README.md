@@ -1,3 +1,4 @@
+- [LPT: If you have smelly feet, check if your socks are made of polyester. Sweat infused polyester gets smelly over time, even if you wash it regularly. : r/LifeProTips](https://www.reddit.com/r/LifeProTips/comments/1asi9ma/lpt_if_you_have_smelly_feet_check_if_your_socks/)
 - [Buy OnePlus Nord 4 - OnePlus (United Kingdom)](https://www.oneplus.com/uk/oneplus-nord-4)
 - [POCO X6 Pro - Xiaomi UK](https://www.mi.com/uk/product/poco-x6-pro/)
 - [Guideline for Management of Major Haemorrhage](https://pch-pathlab.com/cms/sites/default/files/documents/Guideline%20for%20Management%20of%20Major%20Haemorrhage.pdf)
