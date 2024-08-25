@@ -1,3 +1,4 @@
+- [Mental Capacity Act - Social care and support guide](https://www.nhs.uk/conditions/social-care-and-support-guide/making-decisions-for-someone-else/mental-capacity-act/)
 - [Mental Capacity - Mind The Bleep](https://mindthebleep.com/mental-capacity/)
 - [What is ReSPECT? - a patient explains](https://www.youtube.com/watch?v=nrRqWRtjTSQ)
 - [RESPECT form - how to write an Advance Plan](https://www.youtube.com/watch?v=1juKpvx_IcE)
