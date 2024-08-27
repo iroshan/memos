@@ -1,3 +1,4 @@
+- [Pain Management in Palliative Care Patients](https://app.medall.org/contents/v-pain-management-in-palliative-care-patients)
 - [Mental Capacity Act - Social care and support guide](https://www.nhs.uk/conditions/social-care-and-support-guide/making-decisions-for-someone-else/mental-capacity-act/)
 - [Palliative Care - Mind The Bleep](https://mindthebleep.com/palliative-care/)
 - [Dementia - Mind The Bleep](https://mindthebleep.com/dementia/)
