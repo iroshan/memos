@@ -1,3 +1,4 @@
+- [Mental Capacity Act - Social care and support guide](https://www.nhs.uk/conditions/social-care-and-support-guide/making-decisions-for-someone-else/mental-capacity-act/)
 - [Palliative Care - Mind The Bleep](https://mindthebleep.com/palliative-care/)
 - [Dementia - Mind The Bleep](https://mindthebleep.com/dementia/)
 - [Is it worth completesavings £15 a month? They offer loads of cashback! : r/beermoneyuk](https://www.reddit.com/r/beermoneyuk/comments/15a2xbb/is_it_worth_completesavings_15_a_month_they_offer/)
