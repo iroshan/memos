@@ -1,3 +1,4 @@
+- [The Everygirl’s Guide to Building a Morning and Nighttime Routine That Works Best for You](https://theeverygirl.com/morning-vs-nighttime-routine/)
 - [Palliative Care Series - Chaplaincy and Palliative Care](https://app.medall.org/contents/v-palliative-care-series-chaplaincy-and-palliative-care)
 - [Pain Management in Palliative Care Patients](https://app.medall.org/contents/v-pain-management-in-palliative-care-patients)
 - [Mental Capacity Act - Social care and support guide](https://www.nhs.uk/conditions/social-care-and-support-guide/making-decisions-for-someone-else/mental-capacity-act/)
