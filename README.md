@@ -1,3 +1,4 @@
+- [How I've Made £1,000s Mystery Shopping (Guide) : r/beermoneyuk](https://www.reddit.com/r/beermoneyuk/comments/17ly7x9/how_ive_made_1000s_mystery_shopping_guide/)
 - [Absolute Home Textiles | Towels, Linen, Bedding, Duvets, Pillows](https://www.absolutehometextiles.co.uk/)
 - [The Everygirl’s Guide to Building a Morning and Nighttime Routine That Works Best for You](https://theeverygirl.com/morning-vs-nighttime-routine/)
 - [Palliative Care Series - Chaplaincy and Palliative Care](https://app.medall.org/contents/v-palliative-care-series-chaplaincy-and-palliative-care)
