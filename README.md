@@ -1,3 +1,4 @@
+- [Guidebooks](https://guidebooks.google.com/pixel)
 - [18 Things You Should Never Buy at Costco](https://financebuzz.com/never-buy-at-costco)
 - [6IN1 3D Privacy Screen Protectors For Google Pixel 8a Anti-spy Protective tempered glass For Google Pixel 8 8 Pro Camera Film - AliExpress 509](https://www.aliexpress.com/item/1005007519045502.html)
 - [Show Me, Tell Me 2024 Driving Test Questions and Answers](https://www.youtube.com/watch?v=L08vLxILSUM)
