@@ -1,3 +1,5 @@
+- [Example safeguarding adults framework
+](https://ugc.futurelearn.com/uploads/files/71/d1/71d1b840-e1f4-4792-85df-dc6050508885/safeguarding-example-framework.pdf)
 - [Adult_Safeguarding_Roles_and_Competencies_for_Health_Care_Staff](https://ugc.futurelearn.com/uploads/files/07/a6/07a6047e-cd9d-48b9-a083-9a44d0e524fb/Adult_Safeguarding_Roles_and_Competencies_for_Health_Care_Staff_-_August_2018.pdf)
 - [Guidebooks](https://guidebooks.google.com/pixel)
 - [18 Things You Should Never Buy at Costco](https://financebuzz.com/never-buy-at-costco)
