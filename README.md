@@ -1,3 +1,4 @@
+- [Adult_Safeguarding_Roles_and_Competencies_for_Health_Care_Staff](https://ugc.futurelearn.com/uploads/files/07/a6/07a6047e-cd9d-48b9-a083-9a44d0e524fb/Adult_Safeguarding_Roles_and_Competencies_for_Health_Care_Staff_-_August_2018.pdf)
 - [Guidebooks](https://guidebooks.google.com/pixel)
 - [18 Things You Should Never Buy at Costco](https://financebuzz.com/never-buy-at-costco)
 - [6IN1 3D Privacy Screen Protectors For Google Pixel 8a Anti-spy Protective tempered glass For Google Pixel 8 8 Pro Camera Film - AliExpress 509](https://www.aliexpress.com/item/1005007519045502.html)
