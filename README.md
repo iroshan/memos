@@ -1,3 +1,7 @@
+- [Perplexing Presentations
+(PP) / Fabricated or Induced
+Illness (FII) in Children
+RCPCH guidance](https://childprotection.rcpch.ac.uk/wp-content/uploads/sites/6/2022/06/FC59055-Perplexing-Presentations-FII-Guidance-updated.pdf)
 - [Chloe's Story](https://www.youtube.com/watch?v=G95hPxH8tzw)
 - [NSPCC](https://www.nspcc.org.uk/)
 - [Example safeguarding adults framework
