@@ -1,3 +1,5 @@
+- [Female Genital Mutilation
+and its Management](https://www.rcog.org.uk/media/au0jn5of/gtg-53-fgm.pdf)
 - [FGM  map](https://nationalfgmcentre.org.uk/wp-content/uploads/2016/10/Hard-Copy-Map.pdf)
 - [Perplexing Presentations
 (PP) / Fabricated or Induced
