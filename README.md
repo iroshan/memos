@@ -1,3 +1,5 @@
+- [Deprivation of Liberty Safeguards
+– guidance for doctors](https://www.bma.org.uk/media/3087/bma-deprivation-of-liberty-safeguards-guidance-september-2020.pdf)
 - [Safeguarding - Domestic Abuse](https://team.nwangliaft.nhs.uk/domestic-abuse/)
 - [Home](https://team.nwangliaft.nhs.uk/)
 - [Safeguarding order people from abuse and neglect](https://www.ageuk.org.uk/siteassets/documents/factsheets/fs78_safeguarding_older_people_from_abuse_fcs.pdf)
