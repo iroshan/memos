@@ -1,3 +1,4 @@
+- [Mental Capacity Act: Next of kin](https://www.youtube.com/watch?v=mSK88qXNz7E&t=148s)
 - [Next of Kin: Understanding decision
 making authorities
 ](https://www.chelwest.nhs.uk/your-visit/advice-and-support/learning-disabilities/links/next-of-kin-understanding-decision-making.pdf)
