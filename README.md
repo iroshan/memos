@@ -1,3 +1,6 @@
+- [Next of Kin: Understanding decision
+making authorities
+](https://www.chelwest.nhs.uk/your-visit/advice-and-support/learning-disabilities/links/next-of-kin-understanding-decision-making.pdf)
 - [Deprivation of Liberty Safeguards
 – guidance for doctors](https://www.bma.org.uk/media/3087/bma-deprivation-of-liberty-safeguards-guidance-september-2020.pdf)
 - [Safeguarding - Domestic Abuse](https://team.nwangliaft.nhs.uk/domestic-abuse/)
