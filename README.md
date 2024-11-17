@@ -1,3 +1,4 @@
+- [This Is the Real Reason Why McDonald’s Straws Are So Wide](https://www.rd.com/article/mcdonalds-straws/)
 - [What people get wrong about happiness](https://www.clearerthinking.org/post/what-people-get-wrong-about-happiness)
 - [What Is the Oxford Comma (And Why Is It Debated)?](https://wordsmarts.com/oxford-comma/)
 - [Why Flight Attendants Hate People Who Crowd the Gate](https://www.thrillist.com/travel/nation/gate-lice-explained)
