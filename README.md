@@ -1,3 +1,4 @@
+- [PERC Rule for Pulmonary Embolism](https://reference.medscape.com/calculator/330/perc-rule-for-pulmonary-embolism)
 - [The Aorta Will %$#@!& You Up | SMACC Sydney](https://smacc.net.au/2017/04/aorta-will-uo/)
 - [Wellens Syndrome](https://litfl.com/wellens-syndrome-ecg-library/)
 - [Here’s How to Winterize Windows the Easy Way](https://www.familyhandyman.com/article/this-is-the-best-way-to-winterize-windows/)
