@@ -1,3 +1,4 @@
+- [Atypical STEMI Patterns and STEMI Equivalents](https://www.emdocs.net/atypical-stemi-patterns-and-stemi-equivalents/)
 - [Emergency Medicine: A risky business Part 4](https://www.stemlynsblog.org/emergency-medicine-a-risky-business-part-4/)
 - [PERC Rule for Pulmonary Embolism](https://reference.medscape.com/calculator/330/perc-rule-for-pulmonary-embolism)
 - [The Aorta Will %$#@!& You Up | SMACC Sydney](https://smacc.net.au/2017/04/aorta-will-uo/)
