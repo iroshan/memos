@@ -1,3 +1,4 @@
+- [Tips on how to prepare and survive your night shifts](https://www.stemlynsblog.org/not-night-shift/)
 - [Brugada Syndrome](https://litfl.com/brugada-syndrome-ecg-library/)
 - [Posterior MI Recognition](https://www.emdocs.net/posterior-mi-recognition/)
 - [Atypical STEMI Patterns and STEMI Equivalents](https://www.emdocs.net/atypical-stemi-patterns-and-stemi-equivalents/)
