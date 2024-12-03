@@ -1,3 +1,4 @@
+- [The ultimate ECG book & course: learn ECG interpretation, videos, test/quiz –](https://ecgwaves.com/)
 - [RCEM_BPC_Management_of_Pain_in_Adults](https://rcem.ac.uk/wp-content/uploads/2021/10/RCEM_BPC_Management_of_Pain_in_Adults_300621.pdf)
 - [The Surprising Origins Of Those White Lines Airplanes Leave Behind - Explore](https://www.explore.com/1711791/the-surprising-origins-of-those-white-lines-airplanes-leave-behind/)
 - [How To Use a Balloon To Clean Up Dust](https://houseoutlook.com/use-balloon-clean-dust/)
