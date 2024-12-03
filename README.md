@@ -1,3 +1,4 @@
+- [The Fix for Unpleasant Upholstery Odors Is in Your Liquor Cabinet](https://houseoutlook.com/fix-upholstery-odors-liquor-cabinet/)
 - [Tips on how to prepare and survive your night shifts](https://www.stemlynsblog.org/not-night-shift/)
 - [Brugada Syndrome](https://litfl.com/brugada-syndrome-ecg-library/)
 - [Posterior MI Recognition](https://www.emdocs.net/posterior-mi-recognition/)
