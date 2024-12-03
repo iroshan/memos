@@ -1,3 +1,4 @@
+- [ECG Rule of Fours](https://litfl.com/ecg-rule-of-fours/)
 - [Cardiac axis trainer](https://david-shrk.github.io/ecgaxistrainer/)
 - [The ultimate ECG book & course: learn ECG interpretation, videos, test/quiz –](https://ecgwaves.com/)
 - [RCEM_BPC_Management_of_Pain_in_Adults](https://rcem.ac.uk/wp-content/uploads/2021/10/RCEM_BPC_Management_of_Pain_in_Adults_300621.pdf)
