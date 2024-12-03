@@ -1,3 +1,4 @@
+- [The Surprising Origins Of Those White Lines Airplanes Leave Behind - Explore](https://www.explore.com/1711791/the-surprising-origins-of-those-white-lines-airplanes-leave-behind/)
 - [How To Use a Balloon To Clean Up Dust](https://houseoutlook.com/use-balloon-clean-dust/)
 - [The Fix for Unpleasant Upholstery Odors Is in Your Liquor Cabinet](https://houseoutlook.com/fix-upholstery-odors-liquor-cabinet/)
 - [Tips on how to prepare and survive your night shifts](https://www.stemlynsblog.org/not-night-shift/)
