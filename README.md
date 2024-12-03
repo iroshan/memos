@@ -1,3 +1,4 @@
+- [How To Use a Balloon To Clean Up Dust](https://houseoutlook.com/use-balloon-clean-dust/)
 - [The Fix for Unpleasant Upholstery Odors Is in Your Liquor Cabinet](https://houseoutlook.com/fix-upholstery-odors-liquor-cabinet/)
 - [Tips on how to prepare and survive your night shifts](https://www.stemlynsblog.org/not-night-shift/)
 - [Brugada Syndrome](https://litfl.com/brugada-syndrome-ecg-library/)
