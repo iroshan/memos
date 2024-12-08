@@ -1,3 +1,4 @@
+- [Wellens Syndrome](https://litfl.com/wellens-syndrome-ecg-library/)
 - [Arrhythmogenic Right Ventricular Dysplasia (ARVD)](https://litfl.com/arrhythmogenic-right-ventricular-dysplasia-arvd/)
 - [Arrhythmogenic Right Ventricular Dysplasia (ARVD)](https://litfl.com/arrhythmogenic-right-ventricular-dysplasia-arvd/)
 - [Brugada Syndrome](https://litfl.com/brugada-syndrome-ecg-library/)
