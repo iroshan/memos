@@ -1,3 +1,4 @@
+- [Arrhythmogenic Right Ventricular Dysplasia (ARVD)](https://litfl.com/arrhythmogenic-right-ventricular-dysplasia-arvd/)
 - [Brugada Syndrome](https://litfl.com/brugada-syndrome-ecg-library/)
 - [De Winter T Wave](https://litfl.com/de-winter-t-wave/)
 - [ECG Rule of Fours](https://litfl.com/ecg-rule-of-fours/)
