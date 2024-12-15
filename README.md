@@ -1,3 +1,4 @@
+- [Upper Gastrointestinal Haemorrhage - RCEMLearning](https://www.rcemlearning.co.uk/reference/upper-gastrointestinal-haemorrhage/)
 - [Recommendations | Head injury: assessment and early management | Guidance | NICE](https://www.nice.org.uk/guidance/ng232/chapter/recommendations#criteria-for-doing-a-ct-head-scan)
 - [Pain Management in Adult Patients - RCEMLearning](https://www.rcemlearning.co.uk/reference/pain-management-in-adults/)
 - [CRACKCast E041 – Head Injury - CanadiEM](https://canadiem.org/crackcast-e041-head-injury/)
