@@ -1,3 +1,4 @@
+- [CRACKCast E041 – Head Injury - CanadiEM](https://canadiem.org/crackcast-e041-head-injury/)
 - [Approach to Pain Management in the ED - CanadiEM](https://canadiem.org/approach-to-pain-management-in-the-ed/)
 - [Overview | Head injury: assessment and early management | Guidance | NICE](https://www.nice.org.uk/guidance/ng232)
 - [This 3-minute habit changed my life](https://www.fastcompany.com/40582720/this-3-minute-habit-changed-my-life/)
