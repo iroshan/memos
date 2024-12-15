@@ -1,3 +1,4 @@
+- [6 Common Skin Care Myths, Debunked](https://uniquebeauty.com/skin-care-myths/)
 - [5 Things Science Still Can’t Explain](https://interestingfacts.com/things-science-still-cant-explain/)
 - [Child & adult safeguarding: level 3 | Online](https://rcgp.my.site.com/s/lt-event?id=a1USg000001K8thMAC&site=a0d1i00000aKQbhAAG)
 - [Wellens Syndrome](https://litfl.com/wellens-syndrome-ecg-library/)
