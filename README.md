@@ -1,3 +1,4 @@
+- [Pain Management in Adult Patients - RCEMLearning](https://www.rcemlearning.co.uk/reference/pain-management-in-adults/)
 - [CRACKCast E041 – Head Injury - CanadiEM](https://canadiem.org/crackcast-e041-head-injury/)
 - [CRACKCast E041 – Head Injury - CanadiEM](https://canadiem.org/crackcast-e041-head-injury/)
 - [Approach to Pain Management in the ED - CanadiEM](https://canadiem.org/approach-to-pain-management-in-the-ed/)
