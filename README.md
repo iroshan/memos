@@ -1,3 +1,4 @@
+- [Acute aortic dissection](https://www.escardio.org/Journals/E-Journal-of-Cardiology-Practice/Volume-12/Acute-aortic-dissection)
 - [Flat earthers go to Antarctica](https://sharonahill.com/flat-earthers-go-to-antarctica/)
 - [Upper Gastrointestinal Haemorrhage - RCEMLearning](https://www.rcemlearning.co.uk/reference/upper-gastrointestinal-haemorrhage/)
 - [Recommendations | Head injury: assessment and early management | Guidance | NICE](https://www.nice.org.uk/guidance/ng232/chapter/recommendations#criteria-for-doing-a-ct-head-scan)
