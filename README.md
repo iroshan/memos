@@ -1,3 +1,4 @@
+- [Fingerprints, Snowflakes, and Other Patterns That Are Always Unique](https://interestingfacts.com/unique-natural-patterns/)
 - [Are Blue Light Glasses Worth the Money?](https://uniquebeauty.com/do-blue-light-glasses-work/)
 - [Low phosphate  | Blog entry by _ RCGP Learning | RCGP Learning](https://elearning.rcgp.org.uk/blog/index.php?entryid=63)
 - [The Aorta Will %$#@!& You UP](https://www.slideshare.net/slideshow/the-aorta-will-you-uo/64753008)
