@@ -1,3 +1,4 @@
+- [AI voice scams are on the rise. Here's how to protect yourself.](https://www.cbsnews.com/news/elder-scams-family-safe-word/)
 - [Get a free National Trust day pass for your family day out this winter](https://www.express.co.uk/news/uk/1891478/national-trust-family-pass-free-day-out)
 - [Grade 6 Adding Mixed Numbers Worksheets | Math Worksheets](https://slamboresources.com/grade-6-subtracting-mixed-numbers-worksheets/)
 - [Fingerprints, Snowflakes, and Other Patterns That Are Always Unique](https://interestingfacts.com/unique-natural-patterns/)
