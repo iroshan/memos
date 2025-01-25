@@ -1,3 +1,4 @@
+- [Pop Cryptid Spectator #4](https://sharonahill.substack.com/p/pop-cryptid-spectator-4?publication_id=388418&utm_campaign=email-post-title&r=nok7p&utm_medium=email)
 - [AI voice scams are on the rise. Here's how to protect yourself.](https://www.cbsnews.com/news/elder-scams-family-safe-word/)
 - [Get a free National Trust day pass for your family day out this winter](https://www.express.co.uk/news/uk/1891478/national-trust-family-pass-free-day-out)
 - [Grade 6 Adding Mixed Numbers Worksheets | Math Worksheets](https://slamboresources.com/grade-6-subtracting-mixed-numbers-worksheets/)
