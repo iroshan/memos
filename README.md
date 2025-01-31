@@ -1,3 +1,4 @@
+- [Why You Should Always Drop a Penny in Your Flower Vase](https://houseoutlook.com/drop-a-penny-in-flower-vase/)
 - [The 2 Types of Status: Bought vs. Earned | The Curiosity Chronicle](https://www.sahilbloom.com/newsletter/the-2-types-of-status-bought-vs-earned)
 - [10 of the Most Generation Defining Films - Listverse](https://listverse.com/2025/01/08/10-of-the-most-generation-defining-films/)
 - [Pop Cryptid Spectator #4](https://sharonahill.substack.com/p/pop-cryptid-spectator-4?publication_id=388418&utm_campaign=email-post-title&r=nok7p&utm_medium=email)
