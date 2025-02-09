@@ -1,3 +1,4 @@
+- [SEA LIFE Hunstanton - An Underwater Adventure](https://www.dayoutwiththekids.co.uk/attractions/sea-life-hunstanton-4c29d37a)
 - [Lincolnshire Wildlife Park - A Great Family Day Out](https://www.lincswildlife.com/)
 - [Burghley House](https://www.lovetovisit.com/uk-attractions/burghley-house)
 - [Visit Rutland Farm Park for Family Fun and Adventure | Rutland Farm Park](https://rutlandfarmpark.co.uk/visit)
