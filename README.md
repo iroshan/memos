@@ -1,3 +1,4 @@
+- [ECG Rule of Fours](https://litfl.com/ecg-rule-of-fours/)
 - [GitHub - officialrealTM/mcserver_installer: A powerful bash script for easy installation of a Minecraft server (Vanilla, Forge, Spigot & Paper)](https://github.com/officialrealTM/mcserver_installer)
 - [Sahil Bloom's - The Curiosity Chronicle](https://www.sahilbloom.com/newsletter)
 - [SEA LIFE Hunstanton - An Underwater Adventure](https://www.dayoutwiththekids.co.uk/attractions/sea-life-hunstanton-4c29d37a)
