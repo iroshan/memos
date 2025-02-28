@@ -1,3 +1,4 @@
+- [RCGP Learning: All courses | RCGP Learning](https://elearning.rcgp.org.uk/course/index.php?categoryid=69)
 - [ECG Rule of Fours](https://litfl.com/ecg-rule-of-fours/)
 - [GitHub - officialrealTM/mcserver_installer: A powerful bash script for easy installation of a Minecraft server (Vanilla, Forge, Spigot & Paper)](https://github.com/officialrealTM/mcserver_installer)
 - [Sahil Bloom's - The Curiosity Chronicle](https://www.sahilbloom.com/newsletter)
