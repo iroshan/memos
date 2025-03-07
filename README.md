@@ -1,3 +1,4 @@
+- [How To Declutter And Organize Your Home In 1 Month](https://www.southernliving.com/organize-and-declutter-home-11681305)
 - [10 Redundant Acronyms You Can Drop From Your Vocabulary](https://wordsmarts.com/redundant-acronyms/)
 - [An Easy Way To Remove Baked-On Food in Your Oven](https://houseoutlook.com/remove-baked-on-food-from-oven/)
 - [The impact of Trump’s tariffs on the UK and the world](https://www.telegraph.co.uk/business/0/impact-of-donald-trump-trade-tariffs-on-uk-world/)
