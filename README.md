@@ -1,3 +1,4 @@
+- [An Easy Way To Remove Baked-On Food in Your Oven](https://houseoutlook.com/remove-baked-on-food-from-oven/)
 - [The impact of Trump’s tariffs on the UK and the world](https://www.telegraph.co.uk/business/0/impact-of-donald-trump-trade-tariffs-on-uk-world/)
 - [The five-day diet that blasts belly fat](https://www.telegraph.co.uk/health-fitness/diet/nutrition/five-day-fast-diet-belly-fat-inflammation/)
 - [Fantasy/Sci-Fi books that will make me laugh? : r/audible](https://www.reddit.com/r/audible/comments/1izfkpy/fantasyscifi_books_that_will_make_me_laugh/)
