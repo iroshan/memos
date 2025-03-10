@@ -1,3 +1,4 @@
+- [Semaglutide in patients with obesity and knee osteoarthritis – GPnotebook](https://gpnotebook.com/en-GB/tv/obesity/semaglutide-in-patients-with-obesity-and-knee-osteoarthritis)
 - [These Riddles Stump Just About Everyone. Can You Solve Them?](https://feedingcuriosity.com/feeding-curiosity/these-riddles-stump-just-about-everyone-can-you-solve-them/)
 - [General Data Protection Regulation (GDPR)](https://www.quizdaily.com/legal-block)
 - [Fantasy/Sci-Fi books that will make me laugh? : r/audible](https://www.reddit.com/r/audible/comments/1izfkpy/fantasyscifi_books_that_will_make_me_laugh/)
