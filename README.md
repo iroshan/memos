@@ -1,3 +1,4 @@
+- [Audio Samples from StyleTTS 2](https://styletts2.github.io/)
 - [StyleTTS 2 - a Hugging Face Space by styletts2](https://huggingface.co/spaces/styletts2/styletts2)
 - [Semaglutide in patients with obesity and knee osteoarthritis – GPnotebook](https://gpnotebook.com/en-GB/tv/obesity/semaglutide-in-patients-with-obesity-and-knee-osteoarthritis)
 - [These Riddles Stump Just About Everyone. Can You Solve Them?](https://feedingcuriosity.com/feeding-curiosity/these-riddles-stump-just-about-everyone-can-you-solve-them/)
