@@ -1,3 +1,4 @@
+- [Overview](https://localai.io/)
 - [GitHub - p0n1/epub_to_audiobook: EPUB to audiobook converter, optimized for Audiobookshelf](https://github.com/p0n1/epub_to_audiobook)
 - [ChatGPT Pricing](https://openai.com/chatgpt/pricing/)
 - [list of voices available in Edge TTS.txt](https://gist.github.com/BettyJJ/17cbaa1de96235a7f5773b8690a20462)
