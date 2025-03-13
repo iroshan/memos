@@ -1,3 +1,4 @@
+- [Bark - a Hugging Face Space by suno](https://huggingface.co/spaces/suno/bark)
 - [Overview](https://localai.io/)
 - [GitHub - p0n1/epub_to_audiobook: EPUB to audiobook converter, optimized for Audiobookshelf](https://github.com/p0n1/epub_to_audiobook)
 - [ChatGPT Pricing](https://openai.com/chatgpt/pricing/)
