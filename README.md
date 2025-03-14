@@ -1,3 +1,4 @@
+- [JEFIT Gym Workout Plan Tracker - Apps on Google Play](https://play.google.com/web/store/apps/details?id=je.fit&hl=en)
 - [Exciting Update for epub_to_audiobook v0.4.0: Introducing OpenAI TTS! : r/selfhosted](https://www.reddit.com/r/selfhosted/comments/17s3tc9/exciting_update_for_epub_to_audiobook_v040/?share_id=SHnS3lxBPbBmoEo5gF3l3&utm_content=1&utm_medium=android_app&utm_name=androidcss&utm_source=share&utm_term=1)
 - [Bark - a Hugging Face Space by suno](https://huggingface.co/spaces/suno/bark)
 - [Overview](https://localai.io/)
