@@ -1,3 +1,4 @@
+- [Actual | Actual Budget Documentation](https://actualbudget.org/)
 - [If DCC is Soundbooth Theaters best, what are their next best? : r/audible](https://www.reddit.com/r/audible/comments/1be8y3v/if_dcc_is_soundbooth_theaters_best_what_are_their/)
 - [GitHub - suno-ai/bark: 🔊 Text-Prompted Generative Audio Model](https://github.com/suno-ai/bark)
 - [Exciting Update for epub_to_audiobook v0.4.0: Introducing OpenAI TTS! : r/selfhosted](https://www.reddit.com/r/selfhosted/comments/17s3tc9/exciting_update_for_epub_to_audiobook_v040/?share_id=SHnS3lxBPbBmoEo5gF3l3&utm_content=1&utm_medium=android_app&utm_name=androidcss&utm_source=share&utm_term=1)
