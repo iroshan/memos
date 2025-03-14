@@ -1,3 +1,4 @@
+- [r/Fitness Basic Beginner Routine | The Fitness Wiki](https://thefitness.wiki/routines/r-fitness-basic-beginner-routine/)
 - [Adding Physical Activity | The Fitness Wiki](https://thefitness.wiki/adding-physical-activity/)
 - [Strength Coach - Apps on Google Play](https://play.google.com/store/apps/details?id=co.winnovia.strengthcoach&hl=en)
 - [JEFIT Gym Workout Plan Tracker - Apps on Google Play](https://play.google.com/web/store/apps/details?id=je.fit&hl=en)
