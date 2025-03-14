@@ -1,3 +1,4 @@
+- [GitHub - suno-ai/bark: 🔊 Text-Prompted Generative Audio Model](https://github.com/suno-ai/bark)
 - [Exciting Update for epub_to_audiobook v0.4.0: Introducing OpenAI TTS! : r/selfhosted](https://www.reddit.com/r/selfhosted/comments/17s3tc9/exciting_update_for_epub_to_audiobook_v040/?share_id=SHnS3lxBPbBmoEo5gF3l3&utm_content=1&utm_medium=android_app&utm_name=androidcss&utm_source=share&utm_term=1)
 - [Is there any free way to convert a text ebook to an AI audiobook? : r/audiobooks](https://www.reddit.com/r/audiobooks/comments/10pxb2i/is_there_any_free_way_to_convert_a_text_ebook_to/)
 - [r/Fitness Basic Beginner Routine | The Fitness Wiki](https://thefitness.wiki/routines/r-fitness-basic-beginner-routine/)
