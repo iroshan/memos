@@ -1,3 +1,4 @@
+- [This Is the Grossest Thing You Can Do in Your Hotel Room, According to an Epidemiologist](https://www.travelandleisure.com/grossest-thing-you-can-do-in-hotel-room-use-ice-bucket-8694526)
 - [6 Outstanding Facts About the Color Orange](https://interestingfacts.com/orange-facts/)
 - [6 Brand Names That Are Actually Acronyms](https://interestingfacts.com/brand-names-acronyms/)
 - [New Shows & Movies To Watch This Weekend: Apple TV+’s ‘The Studio’ + More](https://decider.com/2025/03/28/best-new-movies-shows-weekend-netflix-hulu-amazon-prime-hbo-march-27-2025/)
