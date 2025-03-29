@@ -1,3 +1,4 @@
+- [New Shows & Movies To Watch This Weekend: Apple TV+’s ‘The Studio’ + More](https://decider.com/2025/03/28/best-new-movies-shows-weekend-netflix-hulu-amazon-prime-hbo-march-27-2025/)
 - [Chrome Extension to Help Book Tests / Move Forward : r/LearnerDriverUK](https://www.reddit.com/r/LearnerDriverUK/comments/15waafm/chrome_extension_to_help_book_tests_move_forward/?share_id=ir0DibhXIWroKEH-QUaxd&utm_content=2&utm_medium=ios_app&utm_name=ioscss&utm_source=share&utm_term=1)
 - [New to series, read order? : r/Stormlight_Archive](https://www.reddit.com/r/Stormlight_Archive/comments/127pd0e/new_to_series_read_order/)
 - [Actual | Actual Budget Documentation](https://actualbudget.org/)
