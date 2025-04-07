@@ -1,3 +1,4 @@
+- [Lessons from 200 Years of Tariff History](https://www.skeptic.com/article/lessons-from-200-years-of-tariff-history/)
 - [Why Tariffs Decrease the Wealth of Nations](https://www.skeptic.com/article/why-tariffs-decrease-the-wealth-of-nations/)
 - [SATs Revision Help | St Patrick's Catholic Primary School](https://www.st-patricksstafford.com/sats-revision-tools/)
 - [10 Scientific Questions We Can't Answer Yet](https://science.howstuffworks.com/innovation/scientific-experiments/10-questions-science-cant-answer-yet.htm)
