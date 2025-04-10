@@ -1,3 +1,4 @@
+- [Should You Use the Hotel Safe? Travel Experts Weigh In — Daily Passport](https://dailypassport.com/should-you-use-hotel-room-safe/)
 - [Lessons from 200 Years of Tariff History](https://www.skeptic.com/article/lessons-from-200-years-of-tariff-history/)
 - [Why Tariffs Decrease the Wealth of Nations](https://www.skeptic.com/article/why-tariffs-decrease-the-wealth-of-nations/)
 - [SATs Revision Help | St Patrick's Catholic Primary School](https://www.st-patricksstafford.com/sats-revision-tools/)
