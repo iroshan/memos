@@ -1,3 +1,4 @@
+- [6 Common Phrases You May Not Realize Are Condescending](https://www.huffpost.com/entry/condescending-phrases-to-avoid_l_66c76b13e4b029313b6f6b34)
 - [Lifestyle changes boost longevity for cancer survivors, study suggests - UPI.com](https://www.upi.com/Health_News/2025/04/04/diet-exercise-cancer-survivors-study/9081743778636/)
 - [Should You Use the Hotel Safe? Travel Experts Weigh In — Daily Passport](https://dailypassport.com/should-you-use-hotel-room-safe/)
 - [Lessons from 200 Years of Tariff History](https://www.skeptic.com/article/lessons-from-200-years-of-tariff-history/)
