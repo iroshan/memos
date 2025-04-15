@@ -1,3 +1,4 @@
+- [QUVIVIQ™▼ (daridorexant) case study module - Doctors.net.uk](https://www.doctors.net.uk/eClient/idorsia/chronic-insomnia-nanomodule-3581/index.html)
 - [Should we be eating three meals a day?](https://www.bbc.com/future/article/20220412-should-we-be-eating-three-meals-a-day)
 - [6 Common Phrases You May Not Realize Are Condescending](https://www.huffpost.com/entry/condescending-phrases-to-avoid_l_66c76b13e4b029313b6f6b34)
 - [Lifestyle changes boost longevity for cancer survivors, study suggests - UPI.com](https://www.upi.com/Health_News/2025/04/04/diet-exercise-cancer-survivors-study/9081743778636/)
