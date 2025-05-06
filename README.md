@@ -1,3 +1,4 @@
+- [Could 100 Men Beat a Gorilla in a Fight? Here's What Primatologists Say](https://www.rollingstone.com/culture/culture-features/100-men-gorilla-debate-who-would-win-1235327636/)
 - [QUVIVIQ™▼ (daridorexant) case study module - Doctors.net.uk](https://www.doctors.net.uk/eClient/idorsia/chronic-insomnia-nanomodule-3581/index.html)
 - [Should we be eating three meals a day?](https://www.bbc.com/future/article/20220412-should-we-be-eating-three-meals-a-day)
 - [6 Common Phrases You May Not Realize Are Condescending](https://www.huffpost.com/entry/condescending-phrases-to-avoid_l_66c76b13e4b029313b6f6b34)
