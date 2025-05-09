@@ -1,3 +1,4 @@
+- [5 Genetic Mutations That Are Actually Helpful](https://interestingfacts.com/beneficial-genetic-mutations/)
 - [Notifiable diseases – GPnotebook](https://gpnotebook.com/en-GB/pages/infectious-disease/notifiable-diseases)
 - [8 Lesser-Known Facts About the U.S. Constitution](https://interestingfacts.com/constitution-facts/)
 - [8 Amazing Facts About Antarctica](https://interestingfacts.com/antarctica-facts/)
