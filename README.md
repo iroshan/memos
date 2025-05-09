@@ -1,3 +1,4 @@
+- [Notifiable diseases – GPnotebook](https://gpnotebook.com/en-GB/pages/infectious-disease/notifiable-diseases)
 - [8 Lesser-Known Facts About the U.S. Constitution](https://interestingfacts.com/constitution-facts/)
 - [8 Amazing Facts About Antarctica](https://interestingfacts.com/antarctica-facts/)
 - [How Can You Spot (and Fix) Run-On Sentences?](https://wordsmarts.com/run-on-sentences/)
