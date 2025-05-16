@@ -1,3 +1,4 @@
+- [Social Care Institute for Excellence (SCIE)](https://www.scie.org.uk/)
 - [Homelessness – Bolton Council](https://www.bolton.gov.uk/homelessness-1/homelessness/2)
 - [St Mary's Centre :: Home](https://www.stmaryscentre.org/)
 - [LGBT Foundation – A national charity with LGBTQ+ health and wellbeing at the heart of everything we do.](https://lgbt.foundation/)
