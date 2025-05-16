@@ -1,3 +1,4 @@
+- [clutter-image-ratings](https://hoardingdisordersuk.org/wp-content/uploads/2014/01/clutter-image-ratings.pdf)
 - [Gardeners World 2 for 1 Map - SWC](https://maps.walkingclub.org.uk/historic-houses-castles-gardens-ruins/gardens.shtml)
 - [5 Genetic Mutations That Are Actually Helpful](https://interestingfacts.com/beneficial-genetic-mutations/)
 - [Notifiable diseases – GPnotebook](https://gpnotebook.com/en-GB/pages/infectious-disease/notifiable-diseases)
