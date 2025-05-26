@@ -1,3 +1,4 @@
+- [Quest Games Optimizer - Tutorials & Videos](https://www.quest-games-optimizer.com/tutorials-videos)
 - [Uncrackable Games](https://vrpirates.wiki/en/games/uncrackable#removed-from-rookie)
 - [39 Essex Chambers](https://www.39essex.com/)
 - [Bolton Safeguarding Adults Board – Bolton Council](https://www.bolton.gov.uk/homepage/131/bolton-safeguarding-adults-board)
