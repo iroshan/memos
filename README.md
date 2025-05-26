@@ -1,3 +1,4 @@
+- [Uncrackable Games](https://vrpirates.wiki/en/games/uncrackable#removed-from-rookie)
 - [39 Essex Chambers](https://www.39essex.com/)
 - [Bolton Safeguarding Adults Board – Bolton Council](https://www.bolton.gov.uk/homepage/131/bolton-safeguarding-adults-board)
 - [Social Care Institute for Excellence (SCIE)](https://www.scie.org.uk/)
