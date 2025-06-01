@@ -1,3 +1,4 @@
+- [Virtual Desktop v.1.24 (рабочий)](https://vrtor.ru/1140-virtual-desktop-v124.html)
 - [Quest Games Optimizer v.11.3.1](https://vrtor.ru/1201-quest-games-optimizer-v91.html)
 - [The 2025 Guide to Quest Piracy - Standalone : r/QuestPiracy](https://www.reddit.com/r/QuestPiracy/comments/1hmik8e/the_2025_guide_to_quest_piracy_standalone/)
 - [Flowborne VR - Biofeedback Breathing Meditation in Virtual Reality](https://flowborne.com/)
