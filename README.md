@@ -1,3 +1,4 @@
+- [Real Debrid + Debrid Media Manager + 4XVR or Skybox = Quest Streaming Heaven : r/QuestPiracy](https://www.reddit.com/r/QuestPiracy/comments/1h6jouv/real_debrid_debrid_media_manager_4xvr_or_skybox/)
 - [FLY - A Google Earth Flight Sim on Meta Quest](https://www.meta.com/en-gb/experiences/fly-a-google-earth-flight-sim/6392501587470497/)
 - [Games that don’t induce VR sickness? : r/OculusQuest](https://www.reddit.com/r/OculusQuest/comments/184qwr9/games_that_dont_induce_vr_sickness/)
 - [Virtual Desktop v.1.24 (рабочий)](https://vrtor.ru/1140-virtual-desktop-v124.html)
