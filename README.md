@@ -1,3 +1,4 @@
+- [FLY - A Google Earth Flight Sim on Meta Quest](https://www.meta.com/en-gb/experiences/fly-a-google-earth-flight-sim/6392501587470497/)
 - [Games that don’t induce VR sickness? : r/OculusQuest](https://www.reddit.com/r/OculusQuest/comments/184qwr9/games_that_dont_induce_vr_sickness/)
 - [Virtual Desktop v.1.24 (рабочий)](https://vrtor.ru/1140-virtual-desktop-v124.html)
 - [Quest Games Optimizer v.11.3.1](https://vrtor.ru/1201-quest-games-optimizer-v91.html)
