@@ -1,3 +1,4 @@
+- [The Healthiest Alcoholic Drink](https://betterreport.com/healthiest-alcoholic-drinks/)
 - [Debrid Media Manager - Recommended Setup](https://docs.google.com/document/d/13enrfVXcGEEd0Yqb0PBTpGYrIvQpSfeIaAMZ_LiBDzM/edit?pli=1&tab=t.0#heading=h.2qgso9pqybdu)
 - [Real Debrid + Debrid Media Manager + 4XVR or Skybox = Quest Streaming Heaven : r/QuestPiracy](https://www.reddit.com/r/QuestPiracy/comments/1h6jouv/real_debrid_debrid_media_manager_4xvr_or_skybox/)
 - [FLY - A Google Earth Flight Sim on Meta Quest](https://www.meta.com/en-gb/experiences/fly-a-google-earth-flight-sim/6392501587470497/)
