@@ -1,3 +1,4 @@
+- [ElfHosted Stremio Addons Guide](https://stremio-addons-guide.elfhosted.com/)
 - [Do You Really Need to Walk 10,000 Steps a Day?](https://betterreport.com/do-you-really-need-to-walk-10000-steps-a-day/)
 - [The Healthiest Alcoholic Drink](https://betterreport.com/healthiest-alcoholic-drinks/)
 - [Debrid Media Manager - Recommended Setup](https://docs.google.com/document/d/13enrfVXcGEEd0Yqb0PBTpGYrIvQpSfeIaAMZ_LiBDzM/edit?pli=1&tab=t.0#heading=h.2qgso9pqybdu)
