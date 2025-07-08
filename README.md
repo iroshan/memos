@@ -1,3 +1,4 @@
+- [Youper: Artificial Intelligence for Mental Health](https://www.youper.ai/)
 - [Chat With Our Free AI Therapist](https://earkick.com/)
 - [Wysa for Individuals | Your AI Companion for Everyday Wellbeing| AI Based Mental Health Platform](https://www.wysa.com/for-individuals)
 - [Youper: Artificial Intelligence for Mental Health](https://www.youper.ai/)
