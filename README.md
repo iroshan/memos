@@ -1,3 +1,4 @@
+- [Wysa for Individuals | Your AI Companion for Everyday Wellbeing| AI Based Mental Health Platform](https://www.wysa.com/for-individuals)
 - [Youper: Artificial Intelligence for Mental Health](https://www.youper.ai/)
 - [Moss for Oculus Quest - Full Playthrough No Commentary Longplay Gameplay](https://www.youtube.com/watch?app=desktop&v=bddav3gvU6E&t=152s)
 - [ElfHosted Stremio Addons Guide](https://stremio-addons-guide.elfhosted.com/)
