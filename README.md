@@ -1,3 +1,4 @@
+- [Video players with passthrough support : r/OculusQuest](https://www.reddit.com/r/OculusQuest/comments/1i5j1hz/video_players_with_passthrough_support/)
 - [Maivii AI: Private & Offline - Apps on Google Play](https://play.google.com/store/apps/details?id=com.maivii.ai&hl=en)
 - [Abby - Your AI Therapist. 100% Free, Available 24/7](https://abby.gg/)
 - [Find Exciting UK Day Visits | Butlin's](https://www.butlins.com/discover-butlins/day-visits)
