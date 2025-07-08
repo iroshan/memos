@@ -1,3 +1,4 @@
+- [Youper: Artificial Intelligence for Mental Health](https://www.youper.ai/)
 - [Moss for Oculus Quest - Full Playthrough No Commentary Longplay Gameplay](https://www.youtube.com/watch?app=desktop&v=bddav3gvU6E&t=152s)
 - [ElfHosted Stremio Addons Guide](https://stremio-addons-guide.elfhosted.com/)
 - [ElfHosted Stremio Addons Guide](https://stremio-addons-guide.elfhosted.com/)
