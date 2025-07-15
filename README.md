@@ -1,3 +1,4 @@
+- [Harnessing conflict for growth: strategies for healthcare teams - MIMS Learning](https://www.mimslearning.co.uk/courses/harnessing-conflict-for-growth-strategies-for-healthcare-teams?utm_medium=EMAIL&utm_campaign=eNews%20Bulletin&utm_source=20250715&utm_content=MIMS%20Learning%20Update%20(101)::www_mimslearning_co_uk_courses_harn_2&email_hash=)
 - [ClearerThinking.org](https://www.clearerthinking.org/)
 - [Properties To Rent in PE2 9BU | Rightmove](undefined://www.rightmove.co.uk/property-to-rent/find.html?minBedrooms=3&furnishTypes=furnished&dontShow=houseShare%2Cstudent&channel=RENT&houseFlatShare=false&letFurnishType=furnished&areaSizeUnit=sqft&viewType=LIST&maxPrice=1400&radius=5.0&locationIdentifier=POSTCODE%5E1188345&transactionType=LETTING&displayLocationIdentifier=undefined)
 - [Video players with passthrough support : r/OculusQuest](https://www.reddit.com/r/OculusQuest/comments/1i5j1hz/video_players_with_passthrough_support/)
