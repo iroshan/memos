@@ -1,3 +1,4 @@
+- [NPR - Breaking News, Analysis, Music, Arts & Podcasts](https://www.npr.org/)
 - [The Attachment Project | Relationship Structures](https://quiz.attachmentproject.com/relationship-structures/situation)
 - [The Empty Boat Mindset | The Curiosity Chronicle](https://www.sahilbloom.com/newsletter/the-empty-boat-mindset)
 - [Third+Space+Learning+Year+6+Maths+Test.pdf](https://tsl-static.s3.eu-west-2.amazonaws.com/assets/documents/Third+Space+Learning+Year+6+Maths+Test.pdf)
