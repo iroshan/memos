@@ -1,3 +1,4 @@
+- [Why You Should Always Drop a Penny in Your Flower Vase](https://houseoutlook.com/drop-a-penny-in-flower-vase/)
 - [Is SPF in Your Makeup a Scam?](https://betterreport.com/is-spf-in-makeup-enough/)
 - [NPR - Breaking News, Analysis, Music, Arts & Podcasts](https://www.npr.org/)
 - [The Attachment Project | Relationship Structures](https://quiz.attachmentproject.com/relationship-structures/situation)
