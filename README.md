@@ -1,3 +1,4 @@
+- [Is SPF in Your Makeup a Scam?](https://betterreport.com/is-spf-in-makeup-enough/)
 - [NPR - Breaking News, Analysis, Music, Arts & Podcasts](https://www.npr.org/)
 - [The Attachment Project | Relationship Structures](https://quiz.attachmentproject.com/relationship-structures/situation)
 - [The Empty Boat Mindset | The Curiosity Chronicle](https://www.sahilbloom.com/newsletter/the-empty-boat-mindset)
