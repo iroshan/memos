@@ -1,3 +1,4 @@
+- [GitHub - Viren070/AIOStreams: One addon to rule them all. AIOStreams consolidates multiple Stremio addons and debrid services into a single, highly customisable super-addon.](https://github.com/Viren070/AIOStreams)
 - [Why You Should Always Drop a Penny in Your Flower Vase](https://houseoutlook.com/drop-a-penny-in-flower-vase/)
 - [Is SPF in Your Makeup a Scam?](https://betterreport.com/is-spf-in-makeup-enough/)
 - [NPR - Breaking News, Analysis, Music, Arts & Podcasts](https://www.npr.org/)
