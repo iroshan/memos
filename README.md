@@ -1,3 +1,4 @@
+- [TorBox.app](https://torbox.app/pricing)
 - [mhdzumair/mediaflow-proxy](https://github.com/mhdzumair/mediaflow-proxy)
 - [GitHub - Viren070/AIOStreams: One addon to rule them all. AIOStreams consolidates multiple Stremio addons and debrid services into a single, highly customisable super-addon.](https://github.com/Viren070/AIOStreams)
 - [Why You Should Always Drop a Penny in Your Flower Vase](https://houseoutlook.com/drop-a-penny-in-flower-vase/)
