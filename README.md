@@ -1,3 +1,4 @@
+- [bohanyang/debi](https://github.com/bohanyang/debi)
 - [Android: Showing duplicate node key after recent update · Issue #16366 · tailscale/tailscale](https://github.com/tailscale/tailscale/issues/16366)
 - [Getting Started | MrChromebox.tech](https://docs.mrchromebox.tech/docs/getting-started.html)
 - [Getting Started | MrChromebox.tech](https://docs.mrchromebox.tech/docs/getting-started.html)
