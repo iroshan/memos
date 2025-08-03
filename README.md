@@ -1,3 +1,4 @@
+- [AIOStreams](https://aiostreams.elfhosted.com/stremio/configure)
 - [Results](https://www.principledtechnologies.com/benchmarkxprt/webxprt/2021/wx4_build_3_7_3/results.php?c=0)
 - [Getting Started - Cosmos Documentation](https://cosmos-cloud.io/doc/1%20index/)
 - [MunifTanjim/stremthru](https://github.com/MunifTanjim/stremthru)
