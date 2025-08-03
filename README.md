@@ -1,3 +1,4 @@
+- [Install Docker oneliner script](https://gist.github.com/zulhfreelancer/254c4a157c586dd232c1a51db0f6eac3)
 - [bohanyang/debi](https://github.com/bohanyang/debi)
 - [Android: Showing duplicate node key after recent update · Issue #16366 · tailscale/tailscale](https://github.com/tailscale/tailscale/issues/16366)
 - [Getting Started | MrChromebox.tech](https://docs.mrchromebox.tech/docs/getting-started.html)
