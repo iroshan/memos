@@ -1,3 +1,4 @@
+- [Getting Started - Cosmos Documentation](https://cosmos-cloud.io/doc/1%20index/)
 - [MunifTanjim/stremthru](https://github.com/MunifTanjim/stremthru)
 - [Stremio-Server](https://elfhosted.com/app/stremio-server/)
 - [Install Docker oneliner script](https://gist.github.com/zulhfreelancer/254c4a157c586dd232c1a51db0f6eac3)
