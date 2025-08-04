@@ -1,3 +1,4 @@
+- [HINTS Exam](https://www.physio-pedia.com/HINTS_Exam)
 - [Template | Viren070's Guides](https://guides.viren070.me/selfhosting/template)
 - [AIOStreams](https://aiostreams.midnightignite.me/stremio/configure?menu=services)
 - [AIOStreams](https://aiostreams.elfhosted.com/stremio/configure)
