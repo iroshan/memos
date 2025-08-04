@@ -1,3 +1,4 @@
+- [Template | Viren070's Guides](https://guides.viren070.me/selfhosting/template)
 - [AIOStreams](https://aiostreams.midnightignite.me/stremio/configure?menu=services)
 - [AIOStreams](https://aiostreams.elfhosted.com/stremio/configure)
 - [Results](https://www.principledtechnologies.com/benchmarkxprt/webxprt/2021/wx4_build_3_7_3/results.php?c=0)
