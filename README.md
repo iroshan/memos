@@ -1,3 +1,4 @@
+- [Stremio Account Bootstrapper](https://stremio-account-bootstrapper.vercel.app/#how)
 - [Free 11+ Maths Papers & Answers (PDF)](https://examberrypapers.co.uk/resources/free-11-plus-practice-papers/maths/)
 - [Contents - National Clinical Guideline for Stroke](https://www.strokeguideline.org/contents/)
 - [HINTS Exam](https://www.physio-pedia.com/HINTS_Exam)
