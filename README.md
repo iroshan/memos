@@ -1,3 +1,4 @@
+- [NX Rewards / Complete Savings Cashback Platforms – A Complete Guide to Getting 10% Cashback Online & Other Benefits : r/beermoneyuk](https://www.reddit.com/r/beermoneyuk/comments/1higlsx/nx_rewards_complete_savings_cashback_platforms_a/)
 - [Taking mock driving tests - Ready to Pass?](https://readytopass.campaign.gov.uk/mock-driving-tests/)
 - [Personal data breaches: a guide](https://ico.org.uk/for-organisations/report-a-breach/personal-data-breach/personal-data-breaches-a-guide/)
 - [How do I work from home securely?](https://ico.org.uk/for-organisations/uk-gdpr-guidance-and-resources/security/working-from-home/how-do-i-work-from-home-securely/)
