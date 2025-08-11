@@ -1,3 +1,4 @@
+- [State of Care - Care Quality Commission](https://www.cqc.org.uk/publications/major-report/state-care)
 - [Human Rights Inquiry case study - The 'Bournewood' ruling - YouTube](https://www.youtube.com/watch?v=pz5Ecovjs4w&t=117s)
 - [Report a concern if you are a member of staff - Care Quality Commission](https://www.cqc.org.uk/contact-us/report-concern/report-concern-if-you-are-member-staff)
 - [NX Rewards / Complete Savings Cashback Platforms – A Complete Guide to Getting 10% Cashback Online & Other Benefits : r/beermoneyuk](https://www.reddit.com/r/beermoneyuk/comments/1higlsx/nx_rewards_complete_savings_cashback_platforms_a/)
