@@ -1,3 +1,4 @@
+- [Clinical tools](https://sepsistrust.org/healthcare-professionals/clinical-tools/)
 - [CPR Recommendations, DNACPR and ReSPECT](https://www.resus.org.uk/public-resource/cpr-decisions-and-dnacpr)
 - [Living Well With Dementia: a national dementia strategy](https://www.gov.uk/government/publications/living-well-with-dementia-a-national-dementia-strategy)
 - [State of Care - Care Quality Commission](https://www.cqc.org.uk/publications/major-report/state-care)
