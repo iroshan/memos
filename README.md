@@ -1,3 +1,4 @@
+- [(71) SCA consultation skills -  LUTs within 12 mins - YouTube](https://www.youtube.com/watch?v=lKXbeTB3kRY)
 - [Recommendations | Chronic heart failure in adults: diagnosis and management | Guidance | NICE](https://www.nice.org.uk/guidance/ng106/chapter/Recommendations#treating-heart-failure-with-reduced-ejection-fraction)
 - [Lithium carbonate | Drugs | BNF content published by NICE](https://bnf.nice.org.uk/drugs/lithium-carbonate/)
 - [Recommendations organised by site of cancer | Suspected cancer: recognition and referral | Guidance | NICE](https://www.nice.org.uk/guidance/ng12/chapter/Recommendations-organised-by-site-of-cancer#lung-and-pleural-cancers)
