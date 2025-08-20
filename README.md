@@ -1,3 +1,4 @@
+- [Recommendations organised by site of cancer | Suspected cancer: recognition and referral | Guidance | NICE](https://www.nice.org.uk/guidance/ng12/chapter/Recommendations-organised-by-site-of-cancer#lung-and-pleural-cancers)
 - [Clinical tools](https://sepsistrust.org/healthcare-professionals/clinical-tools/)
 - [CPR Recommendations, DNACPR and ReSPECT](https://www.resus.org.uk/public-resource/cpr-decisions-and-dnacpr)
 - [Living Well With Dementia: a national dementia strategy](https://www.gov.uk/government/publications/living-well-with-dementia-a-national-dementia-strategy)
