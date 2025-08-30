@@ -1,3 +1,4 @@
+- [SLUM: The Shadow Library Uptime Monitor](https://open-slum.org/)
 - [fsrh-guideline-combined-hormonal-contraception](https://www.fsrh.org/Common/Uploaded%20files/documents/fsrh-guideline-combined-hormonal-contraception-october-2023.pdf)
 - [(71) SCA consultation skills -  LUTs within 12 mins - YouTube](https://www.youtube.com/watch?v=lKXbeTB3kRY)
 - [Recommendations | Chronic heart failure in adults: diagnosis and management | Guidance | NICE](https://www.nice.org.uk/guidance/ng106/chapter/Recommendations#treating-heart-failure-with-reduced-ejection-fraction)
