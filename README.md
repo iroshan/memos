@@ -1,3 +1,4 @@
+- [AIOStreams V2 | Viren070's Guides](https://guides.viren070.me/stremio/addons/aiostreams)
 - [SLUM: The Shadow Library Uptime Monitor](https://open-slum.org/)
 - [fsrh-guideline-combined-hormonal-contraception](https://www.fsrh.org/Common/Uploaded%20files/documents/fsrh-guideline-combined-hormonal-contraception-october-2023.pdf)
 - [(71) SCA consultation skills -  LUTs within 12 mins - YouTube](https://www.youtube.com/watch?v=lKXbeTB3kRY)
