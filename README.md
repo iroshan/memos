@@ -1,3 +1,4 @@
+- [Alternative diagnoses in adults | Right Decisions](https://rightdecisions.scot.nhs.uk/asthma-pathway-bts-nice-sign-sign-244/diagnosis/alternative-diagnoses-in-adults/)
 - [Doctors of the World](https://training.doctorsoftheworld.org.uk/unit/view/id:2077)
 - [safe-surgeries-toolkit-2024](https://www.doctorsoftheworld.org.uk/wp-content/uploads/2025/01/safe-surgeries-toolkit-2024-WEB.pdf)
 - [AIOStreams V2 | Viren070's Guides](https://guides.viren070.me/stremio/addons/aiostreams)
