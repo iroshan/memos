@@ -1,3 +1,4 @@
+- [Assessment | Diagnosis | Urinary tract infection (lower) - women | CKS | NICE](https://cks.nice.org.uk/topics/urinary-tract-infection-lower-women/diagnosis/assessment/)
 - [Download your asthma action plan](https://www.asthmaandlung.org.uk/conditions/asthma/manage/your-asthma-action-plan/download)
 - [Alternative diagnoses in adults | Right Decisions](https://rightdecisions.scot.nhs.uk/asthma-pathway-bts-nice-sign-sign-244/diagnosis/alternative-diagnoses-in-adults/)
 - [Doctors of the World](https://training.doctorsoftheworld.org.uk/unit/view/id:2077)
