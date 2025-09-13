@@ -1,3 +1,4 @@
+- [Why You Shouldn’t Sleep in Pajamas](https://betterreport.com/sleeping-naked-benefits/)
 - [Acne-Pathway](https://www.pcds.org.uk/files/general/Acne-Pathway-2024-final-proof.pdf)
 - [Safe Surgeries Toolkit - Doctors of the World](https://www.doctorsoftheworld.org.uk/safesurgeries/safe-surgeries-toolkit/)
 - [Assessment | Diagnosis | Urinary tract infection (lower) - women | CKS | NICE](https://cks.nice.org.uk/topics/urinary-tract-infection-lower-women/diagnosis/assessment/)
