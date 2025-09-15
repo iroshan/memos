@@ -1,3 +1,4 @@
+- [Erythema multiforme](https://www.pcds.org.uk/clinical-guidance/erythema-multiforme)
 - [The Most Underrated Button on the Microwave](https://betterreport.com/the-most-underrated-button-on-the-microwave/)
 - [Why You Shouldn’t Sleep in Pajamas](https://betterreport.com/sleeping-naked-benefits/)
 - [Acne-Pathway](https://www.pcds.org.uk/files/general/Acne-Pathway-2024-final-proof.pdf)
