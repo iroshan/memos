@@ -1,3 +1,4 @@
+- [Patient Information Leaflets - British Association of Dermatologists - Patient Information Leaflets - British Association of Dermatologists](https://www.bad.org.uk/patient-information-leaflets)
 - [Erythema multiforme](https://www.pcds.org.uk/clinical-guidance/erythema-multiforme)
 - [The Most Underrated Button on the Microwave](https://betterreport.com/the-most-underrated-button-on-the-microwave/)
 - [Why You Shouldn’t Sleep in Pajamas](https://betterreport.com/sleeping-naked-benefits/)
