@@ -1,3 +1,4 @@
+- [Erectile dysfunction (impotence)](https://www.nhs.uk/conditions/erection-problems-erectile-dysfunction/)
 - [Choice of laxatives | Prescribing information | Constipation in children | CKS | NICE](https://cks.nice.org.uk/topics/constipation-in-children/prescribing-information/choice-of-laxatives/)
 - [Constipation](https://gpifn.org.uk/constipation/)
 - [Is it Real or Fake 3D?](https://realorfake3d.com/)
