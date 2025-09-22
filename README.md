@@ -1,3 +1,4 @@
+- [Constipation](https://gpifn.org.uk/constipation/)
 - [Is it Real or Fake 3D?](https://realorfake3d.com/)
 - [Patient Information Leaflets - British Association of Dermatologists - Patient Information Leaflets - British Association of Dermatologists](https://www.bad.org.uk/patient-information-leaflets)
 - [Erythema multiforme](https://www.pcds.org.uk/clinical-guidance/erythema-multiforme)
