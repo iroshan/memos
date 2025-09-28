@@ -1,3 +1,4 @@
+- [Cambridge Diabetes Education Programme | competency-based platform](https://www.cdep.org.uk/)
 - [Having diabetes does not mean you cannot drive a car or a motorbike. Given that your diabetes is well controlled, and you doctor states that you are safe to drive, there is no reason why you cannot have or hang on to a driving licence.](https://www.diabetes.co.uk/driving-with-diabetes.html)
 - [Is It Safe to Refreeze Food After Defrosting?](https://betterreport.com/how-to-safely-freeze-food/)
 - [Erectile dysfunction](https://patient.info/mens-health/erectile-dysfunction-impotence)
