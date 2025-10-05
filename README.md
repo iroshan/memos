@@ -1,3 +1,4 @@
+- [What happened in the effort to make Bigfoot the state cryptid of California?](https://sharonahill.substack.com/p/what-happened-in-the-effort-to-make?publication_id=388418&utm_campaign=email-post-title&r=nok7p&utm_medium=email)
 - [Google Pixel Buds Pro 2 Long Term Review: Smaller, But Not REALLY Smaller?](https://somegadgetguy.com/2025/02/06/google-pixel-buds-pro-2-long-term-review-smaller-but-not-really-smaller/)
 - [The One Laundry Setting Quietly Ruining Your Clothes](https://betterreport.com/the-laundry-setting-ruining-clothes/)
 - [Cambridge Diabetes Education Programme | competency-based platform](https://www.cdep.org.uk/)
