@@ -1,3 +1,4 @@
+- [Constipation in children: symptoms, causes and relief - ERIC](https://eric.org.uk/childrens-bowels/constipation-in-children/)
 - [thoracic_back_pain_leaflet](https://www.berkshirehealthcare.nhs.uk/media/168318/thoracic_back_pain_leaflet.pdf)
 - [Adult Constipation and Faecal Impaction Including Laxative Sachet Disimpaction Plan :: Frimley HealthierTogether](https://frimley-healthiertogether.nhs.uk/professionals/safety-netting-documents-parents/adult-safety-netting/constipation-and-faecal-impaction-including-laxative-sachet-disimpaction-plan)
 - [Are Fresh Vegetables Healthier Than Frozen?](https://betterreport.com/are-fresh-vegetables-healthier-than-frozen/)
