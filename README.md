@@ -1,3 +1,4 @@
+- [VERSUS_ARTHRITIS-HCP_HANDBOOK-interactive](https://www.flipsnack.com/BC857F5BDC9/versus_arthritis-hcp_handbook-interactive.html)
 - [spinal fracture](https://www.bristol.ac.uk/media-library/sites/clinical-sciences/documents/musculoskeletal-/Vertebral%20fracture,%20could%20your%20patient%20have%20a%20vertebral%20spinal%20fracture%20new.pdf)
 - [Yocum's Test](https://www.physio-pedia.com/Yocum%27s_Test)
 - [Osteoporosis: Exercise for bone health](https://theros.org.uk/information-and-support/osteoporosis/living-with-osteoporosis/exercise-and-physical-activity-for-osteoporosis/)
