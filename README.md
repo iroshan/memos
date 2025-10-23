@@ -1,3 +1,4 @@
+- [Yocum's Test](https://www.physio-pedia.com/Yocum%27s_Test)
 - [GP Evidence](https://gpevidence.org/)
 - [Examination of the shoulder](https://www.arthritis-uk.org/health-and-care-professionals/training-and-professional-development/clinical-assessment-of-patients-with-musculoskeletal-conditions/the-musculoskeletal-examination-rems/examination-of-the-shoulder/)
 - [VERSUS_ARTHRITIS-HCP_HANDBOOK-interactive](https://www.flipsnack.com/BC857F5BDC9/versus_arthritis-hcp_handbook-interactive.html)
