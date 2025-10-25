@@ -1,3 +1,4 @@
+- [Scottish Palliative Care Guidelines | Right Decisions](https://rightdecisions.scot.nhs.uk/scottish-palliative-care-guidelines/)
 - [Centre 33](https://www.centre33.org.uk/)
 - [Yocum's Test](https://www.physio-pedia.com/Yocum%27s_Test)
 - [GP Evidence](https://gpevidence.org/)
