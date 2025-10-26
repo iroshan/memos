@@ -1,3 +1,4 @@
+- [Smoking cessation | Health topics A to Z | CKS | NICE](https://cks.nice.org.uk/topics/smoking-cessation/)
 - [Allergy Care Pathway Itchy Sneezy Wheezy Project - Homepage](https://www.itchysneezywheezy.co.uk/)
 - [Scottish Palliative Care Guidelines | Right Decisions](https://rightdecisions.scot.nhs.uk/scottish-palliative-care-guidelines/)
 - [Centre 33](https://www.centre33.org.uk/)
