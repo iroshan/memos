@@ -1,3 +1,4 @@
+- [Joyful Doctor Books](https://www.joyfuldoctor.com/books)
 - [Scabies](https://www.pcds.org.uk/clinical-guidance/scabies)
 - [Harmful drinking and alcohol dependence](https://journals.sagepub.com/doi/epub/10.1177/17557380211053031)
 - [Smoking cessation | Health topics A to Z | CKS | NICE](https://cks.nice.org.uk/topics/smoking-cessation/)
