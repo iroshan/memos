@@ -1,3 +1,4 @@
+- [GP Evidence](https://gpevidence.org/)
 - [Joyful Doctor Books](https://www.joyfuldoctor.com/books)
 - [Scabies](https://www.pcds.org.uk/clinical-guidance/scabies)
 - [Harmful drinking and alcohol dependence](https://journals.sagepub.com/doi/epub/10.1177/17557380211053031)
