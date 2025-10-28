@@ -1,3 +1,4 @@
+- [Osteoporosis: Exercise for bone health](https://theros.org.uk/information-and-support/osteoporosis/living-with-osteoporosis/exercise-and-physical-activity-for-osteoporosis/)
 - [GP Evidence](https://gpevidence.org/)
 - [Joyful Doctor Books](https://www.joyfuldoctor.com/books)
 - [Scabies](https://www.pcds.org.uk/clinical-guidance/scabies)
