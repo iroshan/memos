@@ -1,3 +1,4 @@
+- [6. CGA in Primary Care Settings: Medication review | British Geriatrics Society](https://www.bgs.org.uk/6-cga-in-primary-care-settings-medication-review)
 - [Access to health records](https://www.bma.org.uk/advice-and-support/ethics/confidentiality-and-health-records/access-to-health-records)
 - [Optimising inhaled therapy for patients with asthma](https://www.bmj.com/content/386/bmj-2024-080353)
 - [Honest information about drugs | FRANK](https://talktofrank.com/)
