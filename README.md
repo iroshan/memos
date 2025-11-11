@@ -1,3 +1,4 @@
+- [Who ya gonna call… for a Bigfoot sighting?](https://sharonahill.com/who-ya-gonna-call-for-a-bigfoot-sighting/)
 - [New_asthma_guidelines_first_steps](https://www.pcrs-uk.org/sites/default/files/resource/New_asthma_guidelines_first_steps.pdf)
 - [12 Clever Ways to Lower Your Electric Bill](https://betterreport.com/ways-to-lower-electric-bill/)
 - [Blinko - AI-Powered Note Taking App](https://blinko.space)
