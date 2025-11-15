@@ -1,3 +1,4 @@
+- [PTSD and CPTSD self-help guide](https://www.nhsinform.scot/illnesses-and-conditions/mental-health/mental-health-self-help-guides/ptsd-and-cptsd-self-help-guide)
 - [ICU admissions: Consequences after discharge - Minal Karavadra, Ricky Bell, 2020](https://journals.sagepub.com/doi/10.1177/1755738020932613)
 - [End of Life Care in Frailty: Delirium | British Geriatrics Society](https://www.bgs.org.uk/end-of-life-care-in-frailty-delirium)
 - [How long do drugs stay in your system? - Drug and Alcohol Information and Support in Ireland - Drugs.ie](https://www.drugs.ie/drugs_info/about_drugs/how_long_do_drugs_stay_in_your_system/)
