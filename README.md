@@ -1,3 +1,4 @@
+- [Overview | Prostate cancer: diagnosis and management | Guidance | NICE](https://www.nice.org.uk/guidance/ng131)
 - [PTSD and CPTSD self-help guide](https://www.nhsinform.scot/illnesses-and-conditions/mental-health/mental-health-self-help-guides/ptsd-and-cptsd-self-help-guide)
 - [ICU admissions: Consequences after discharge - Minal Karavadra, Ricky Bell, 2020](https://journals.sagepub.com/doi/10.1177/1755738020932613)
 - [End of Life Care in Frailty: Delirium | British Geriatrics Society](https://www.bgs.org.uk/end-of-life-care-in-frailty-delirium)
