@@ -1,3 +1,5 @@
+- [consultation toolkit
+](https://www.rcgp.org.uk/getmedia/95fa6d76-b02d-41c8-873d-f1ccf576dd4b/sca-consultation-toolkit-rag.pdf)
 - [Overview | Atopic eczema in  under 12s: diagnosis and management  | Guidance | NICE](https://www.nice.org.uk/guidance/cg57)
 - [Delirium in Older People | British Geriatrics Society](https://www.bgs.org.uk/elearning/delirium-in-older-people)
 - [Borderline personality disorder | Right Decisions](https://www.rightdecisions.scot.nhs.uk/mental-health-in-pregnancy-and-after-birth-sign-169/recommendations-for-health-and-social-care-professionals/borderline-personality-disorder/)
