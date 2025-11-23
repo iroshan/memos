@@ -1,3 +1,4 @@
+- [Course information | Pancreatic Cancer: Early Diagnosis in General Practice | RCGP Learning](https://elearning.rcgp.org.uk/course/info.php?id=103)
 - [Never Do These Things Right Before Bed](https://betterreport.com/never-do-these-things-right-before-bed/)
 - [consultation toolkit
 ](https://www.rcgp.org.uk/getmedia/95fa6d76-b02d-41c8-873d-f1ccf576dd4b/sca-consultation-toolkit-rag.pdf)
