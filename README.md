@@ -1,3 +1,4 @@
+- [Can Being Cold Cause a Cold? Common Cold Myths, Debunked](https://betterreport.com/common-cold-myths-debunked/)
 - [Palliative Care Matters](https://www.pallcare.info/book.php)
 - [Palliative Care Matters](https://www.pallcare.info/index.php)
 - [Nano Banana Pro Prompts - High-Quality AI Prompts & Image Generation - YouMind](https://youmind.com/nano-banana-pro-prompts)
