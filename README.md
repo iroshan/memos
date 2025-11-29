@@ -1,3 +1,4 @@
+- [Palliative Care Matters](https://www.pallcare.info/book.php)
 - [Palliative Care Matters](https://www.pallcare.info/index.php)
 - [Nano Banana Pro Prompts - High-Quality AI Prompts & Image Generation - YouMind](https://youmind.com/nano-banana-pro-prompts)
 - [Vulval skincare](https://www.bad.org.uk/pils/vulval-skincare)
