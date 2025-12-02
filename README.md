@@ -1,3 +1,4 @@
+- [toxicity bear](https://pbs.twimg.com/media/BKVx5a3CUAAa1z2.png)
 - [Can Being Cold Cause a Cold? Common Cold Myths, Debunked](https://betterreport.com/common-cold-myths-debunked/)
 - [Palliative Care Matters](https://www.pallcare.info/book.php)
 - [Palliative Care Matters](https://www.pallcare.info/index.php)
