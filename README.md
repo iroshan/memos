@@ -1,3 +1,4 @@
+- [This Is the Best Thermostat Setting for Winter, According to Experts](https://betterreport.com/ideal-thermostat-temperature-winter/)
 - [Peritonsillar Abscess (Quinsy) — entsho.com](https://entsho.com/quinsy)
 - [toxicity bear](https://pbs.twimg.com/media/BKVx5a3CUAAa1z2.png)
 - [Can Being Cold Cause a Cold? Common Cold Myths, Debunked](https://betterreport.com/common-cold-myths-debunked/)
