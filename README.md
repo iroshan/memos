@@ -1,3 +1,4 @@
+- [The Right Way to Wrap a Present](https://betterreport.com/how-to-wrap-a-gift/)
 - [The Easiest Ways to Clean Your Electronics](https://betterreport.com/how-to-clean-electronics/)
 - [Chrome Story](https://chromestory.com/)
 - [This Is the Best Thermostat Setting for Winter, According to Experts](https://betterreport.com/ideal-thermostat-temperature-winter/)
