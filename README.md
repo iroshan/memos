@@ -1,3 +1,4 @@
+- [11 Dumbest Things Smart People Waste Money On](https://financebuzz.com/dumb-money-moves-yaez)
 - [The Right Way to Wrap a Present](https://betterreport.com/how-to-wrap-a-gift/)
 - [The Easiest Ways to Clean Your Electronics](https://betterreport.com/how-to-clean-electronics/)
 - [Chrome Story](https://chromestory.com/)
