@@ -1,3 +1,4 @@
+- [Management of Diabetes Mellitus in Primary Care | Primary Care Knowledge Boost](https://pckb.org/e/management-of-diabetes-mellitus-in-primary-care/)
 - [Cawthorne-Cooksey exercises](https://www.stgeorges.nhs.uk/wp-content/uploads/2019/03/Cawthorne-Cooksey-Exercises.pdf)
 - [11 Dumbest Things Smart People Waste Money On](https://financebuzz.com/dumb-money-moves-yaez)
 - [The Right Way to Wrap a Present](https://betterreport.com/how-to-wrap-a-gift/)
