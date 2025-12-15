@@ -1,3 +1,4 @@
+- [Exercises for the shoulders](https://www.arthritis-uk.org/information-and-support/living-with-arthritis/health-and-wellbeing/exercising-with-arthritis/exercises-for-healthy-joints/exercises-for-the-shoulders/)
 - [Times You Really Shouldn’t Brush Your Teeth, According to a Dentist](https://betterreport.com/times-you-shouldnt-brush/)
 - [How to Organize a Small Closet](https://betterreport.com/small-closet-organizers/)
 - [Management of Diabetes Mellitus in Primary Care | Primary Care Knowledge Boost](https://pckb.org/e/management-of-diabetes-mellitus-in-primary-care/)
