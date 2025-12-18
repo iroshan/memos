@@ -1,3 +1,4 @@
+- [‪EBSCO Discovery Service‬‎](https://research.ebsco.com/c/ru4jww/search)
 - [Exercises for the shoulders](https://www.arthritis-uk.org/information-and-support/living-with-arthritis/health-and-wellbeing/exercising-with-arthritis/exercises-for-healthy-joints/exercises-for-the-shoulders/)
 - [Times You Really Shouldn’t Brush Your Teeth, According to a Dentist](https://betterreport.com/times-you-shouldnt-brush/)
 - [How to Organize a Small Closet](https://betterreport.com/small-closet-organizers/)
