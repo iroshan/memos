@@ -1,3 +1,4 @@
+- [Dashboard | Khan Academy](https://www.khanacademy.org/signup/extra-info)
 - [MRC Dyspnoea Scale | Primary Care Respiratory Society](https://www.pcrs-uk.org/mrc-dyspnoea-scale)
 - [‪EBSCO Discovery Service‬‎](https://research.ebsco.com/c/ru4jww/search)
 - [Exercises for the shoulders](https://www.arthritis-uk.org/information-and-support/living-with-arthritis/health-and-wellbeing/exercising-with-arthritis/exercises-for-healthy-joints/exercises-for-the-shoulders/)
