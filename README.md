@@ -1,3 +1,4 @@
+- [Speed Test by Measurement Lab](https://speed.measurementlab.net/#/)
 - [NG73 Endometriosis: diagnosis and management: Visual summary](https://www.nice.org.uk/guidance/ng73/resources/visual-summary-on-first-presentation-initial-management-diagnosis-referral-and-ongoing-care-of-pdf-13559822461)
 - [Vulvovaginal Disorders A Pathway to Diagnosis and Treatment](https://vulvovaginaldisorders.org/)
 - [NICE NG131 Prostate Cancer Guide for GPs](https://nicegpguide-frtywksc.manus.space/)
