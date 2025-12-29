@@ -1,3 +1,4 @@
+- [Gaviscon for gastro-oesophageal reflux disease - Medicines For Children](https://www.medicinesforchildren.org.uk/medicines/gaviscon-for-gastro-oesophageal-reflux-disease/)
 - [How long do drugs stay in your system? - Drug and Alcohol Information and Support in Ireland - Drugs.ie](https://www.drugs.ie/drugs_info/about_drugs/how_long_do_drugs_stay_in_your_system/)
 - [Speed Test by Measurement Lab](https://speed.measurementlab.net/#/)
 - [NG73 Endometriosis: diagnosis and management: Visual summary](https://www.nice.org.uk/guidance/ng73/resources/visual-summary-on-first-presentation-initial-management-diagnosis-referral-and-ongoing-care-of-pdf-13559822461)
