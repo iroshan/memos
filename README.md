@@ -1,3 +1,5 @@
+- [Strengthening Exercises for Peroneal
+Muscles](https://www.torbayandsouthdevon.nhs.uk/uploads/25300.pdf)
 - [Public Health Collaboration](https://phcuk.org/sugar/)
 - [£15 Giggle Bundles](https://www.smiggle.co.uk/shop/en/smiggleuk/gift-bundles-offer)
 - [Anti Snoring Device | Snoreeze Oral Device | Snoring Oral Device](https://snoreeze.com/product/snoreeze-oral-device/)
