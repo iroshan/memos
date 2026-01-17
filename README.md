@@ -1,3 +1,4 @@
+- [Temporary resident forms (GMS3) | PCSE](https://pcse.england.nhs.uk/services/medical-records/temporary-resident-forms-gms3)
 - [Towards Greener Prescribing
 in General Practic](https://www.rcgp.org.uk/getmedia/f50d3afc-5fe0-4ac7-aa3f-9b3821e00312/RCGP-towards-greener-prescribing-in-general-practice.pdf)
 - [GP mythbuster 9: Emergency medicines for GP practices - Care Quality Commission](https://www.cqc.org.uk/guidance-providers/gps/gp-mythbusters/gp-mythbuster-9-emergency-medicines-gp-practices)
