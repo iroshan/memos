@@ -1,3 +1,4 @@
+- [Lichen simplex chronicus (Neurodermatitis) - DermNet](https://dermnetnz.org/topics/lichen-simplex)
 - [Autism in adults | Health topics A to Z | CKS | NICE](https://cks.nice.org.uk/topics/autism-in-adults/)
 - [Orthostatic Hypotension - StatPearls - NCBI Bookshelf](https://www.ncbi.nlm.nih.gov/books/NBK448192/)
 - [Palliative care - malignant skin ulcer | Health topics A to Z | CKS | NICE](https://cks.nice.org.uk/topics/palliative-care-malignant-skin-ulcer/)
