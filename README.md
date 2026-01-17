@@ -1,3 +1,4 @@
+- [Statutory Sick Pay (SSP)](https://www.gov.uk/statutory-sick-pay/eligibility)
 - [Guidance for medical practitioners completing medical certificates of cause of death in England and Wales](https://www.gov.uk/government/publications/medical-certificate-of-cause-of-death-mccd-guidance-for-medical-practitioners/guidance-for-medical-practitioners-completing-medical-certificates-of-cause-of-death-in-england-and-wales)
 - [Guidance for medical practitioners completing medical certificates of cause of death in England and Wales](https://www.gov.uk/government/publications/medical-certificate-of-cause-of-death-mccd-guidance-for-medical-practitioners/guidance-for-medical-practitioners-completing-medical-certificates-of-cause-of-death-in-england-and-wales)
 - [Free NHS prescriptions | NHSBSA](https://www.nhsbsa.nhs.uk/help-nhs-prescription-costs/free-nhs-prescriptions)
