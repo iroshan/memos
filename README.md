@@ -1,3 +1,4 @@
+- [GP mythbuster 15: Chaperones - Care Quality Commission](https://www.cqc.org.uk/guidance-providers/gps/gp-mythbusters/gp-mythbuster-15-chaperones)
 - [Odds Ratio - StatPearls - NCBI Bookshelf](https://www.ncbi.nlm.nih.gov/books/NBK431098/)
 - [Course information | Essential Knowledge Update 18: Oct 2016 | RCGP Learning](https://elearning.rcgp.org.uk/course/info.php?id=221&popup=0)
 - [Lichen simplex chronicus (Neurodermatitis) - DermNet](https://dermnetnz.org/topics/lichen-simplex)
