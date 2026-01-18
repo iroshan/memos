@@ -1,3 +1,4 @@
+- [Genital system infections, antibacterial therapy | Treatment summaries | BNF content published by NICE](https://bnf.nice.org.uk/treatment-summaries/genital-system-infections-antibacterial-therapy/)
 - [Syphilis | Health topics A to Z | CKS | NICE](https://cks.nice.org.uk/topics/syphilis/)
 - [Hypertension in pregnancy | Health topics A to Z | CKS | NICE](https://cks.nice.org.uk/topics/hypertension-in-pregnancy/)
 - [he Management of Nausea and Vomiting in Pregnancy and Hyperemesis Gravidarum (Green-top Guideline No. 69)](https://obgyn.onlinelibrary.wiley.com/doi/full/10.1111/1471-0528.17739)
