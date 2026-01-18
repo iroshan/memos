@@ -1,3 +1,4 @@
+- [2021 ESC Guidelines for the diagnosis and treatment of acute and chronic heart failure: Developed by the Task Force for the diagnosis and treatment of acute and chronic heart failure of the European Society of Cardiology (ESC) With the special contribution of the Heart Failure Association (HFA) of the ESC](https://academic.oup.com/eurheartj/article/42/36/3599/6358045)
 - [Croup | Health topics A to Z | CKS | NICE](https://cks.nice.org.uk/topics/croup/)
 - [Guide to chaperones - The MDU](https://www.themdu.com/guidance-and-advice/guides/guide-to-chaperones)
 - [GP mythbuster 15: Chaperones - Care Quality Commission](https://www.cqc.org.uk/guidance-providers/gps/gp-mythbusters/gp-mythbuster-15-chaperones)
