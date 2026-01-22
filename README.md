@@ -1,3 +1,4 @@
+- [I created a direct HTTP/RPC calls NotebookLM MCP - you can automate everything with it! : r/notebooklm](https://www.reddit.com/r/notebooklm/comments/1q0inws/i_created_a_direct_httprpc_calls_notebooklm_mcp/)
 - [MART-Consensus-statement
 ](https://www.beatasthma.co.uk/wp-content/uploads/2025/04/MART-Consensus-statement-FINAL.pdf)
 - [Health Inequalities: Toolbox for Asthma Care - bswtraininghub.nhs.uk](https://bswtraininghub.nhs.uk/health-inequalities-toolbox-for-asthma-care/)
