@@ -1,3 +1,4 @@
+- [Health Inequalities: Toolbox for Asthma Care - bswtraininghub.nhs.uk](https://bswtraininghub.nhs.uk/health-inequalities-toolbox-for-asthma-care/)
 - [Recovering from pneumonia](https://www.asthmaandlung.org.uk/conditions/pneumonia/recovery)
 - [Abbreviations and Symbols | About | BNF content published by NICE](https://bnf.nice.org.uk/about/abbreviations-and-symbols/)
 - [Genital system infections, antibacterial therapy | Treatment summaries | BNF content published by NICE](https://bnf.nice.org.uk/treatment-summaries/genital-system-infections-antibacterial-therapy/)
