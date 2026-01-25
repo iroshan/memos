@@ -1,3 +1,4 @@
+- [Releases · PlayPro/CoreProtect](https://github.com/PlayPro/CoreProtect/releases)
 - [DebridUI](https://debridui.vercel.app)
 - [Video : A 20 minute Crash Course In Self-Hypnosis](https://aecollegeofhypnosis.uk/video-a-20-minute-crash-course-in-self-hypnosis/)
 - [GitHub - jacob-bd/notebooklm-mcp](https://github.com/jacob-bd/notebooklm-mcp)
