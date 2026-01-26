@@ -1,3 +1,4 @@
+- [Top tips for primary care professionals](https://www.macmillan.org.uk/healthcare-professionals/for-your-role/doctor/gp/top-tips-for-primary-care)
 - [Interactive Quiz App AKT](https://quizapp-6reucr6t.manus.space/)
 - [AKT targeted questions](https://gemini.google.com/share/5b319940f0c1)
 - [Releases · PlayPro/CoreProtect](https://github.com/PlayPro/CoreProtect/releases)
