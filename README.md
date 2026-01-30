@@ -1,3 +1,4 @@
+- [ADHD and ASD assessments – Right To Choose - Norwood Medical Centre](https://www.norwoodmc.co.uk/2025/01/21/adhd-and-asd-assessment-right-to-choose/)
 - [Advice and guidance](https://www.autism.org.uk/advice-and-guidance)
 - [The 5 min meta-analysis: understanding how to read and interpret a forest plot - Eye](https://www.nature.com/articles/s41433-021-01867-6)
 - [Palliative Care Matters](https://www.pallcare.info/book.php)
