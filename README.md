@@ -1,3 +1,4 @@
+- [Ramadan Compendium | British Islamic Medical Association](https://britishima.org/advice/ramadan-compendium/)
 - [DAR Academy](https://daralliancehcp.org/public/risk)
 - [DAR Academy](https://daralliancehcp.org/public/risk)
 - [Total Body Dumbbell Workout](https://emily-cramer.mykajabi.com/blog/total-body-dumbbell-workout)
