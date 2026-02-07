@@ -1,3 +1,4 @@
+- [Kidney Failure Risk Equation (KFRE) and Renal Tools (HP179)](https://support.primarycareit.co.uk/portal/en-gb/kb/articles/sy-kidney-failure-risk-equation-kfre-and-renal-tools-hp179)
 - [Safety of Drugs in Breastmilk](https://gpifn.org.uk/drugs-in-breastmilk/)
 - [Does the contraceptive pill increase risk of cancer? | Cancer Research UK](https://www.cancerresearchuk.org/about-cancer/causes-of-cancer/hormones-and-cancer/does-the-contraceptive-pill-increase-cancer-risk)
 - [(146) DocSupport - YouTube](https://www.youtube.com/@DocSupportLtd)
