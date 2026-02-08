@@ -1,3 +1,4 @@
+- [Chandrayan Pidu - playlist by yazeerr | Spotify](https://open.spotify.com/playlist/4RBRsxMVhlRv068xUk3Ku0)
 - [With a Year's worth of Workouts, This Dumbbell Training Plan Will Make You Unrecognisable](https://www.menshealth.com/uk/workouts/a44128805/dumbbell-workout-plan/)
 - [Total Body Dumbbell Workout](https://emily-cramer.mykajabi.com/blog/total-body-dumbbell-workout)
 - [(146) DocSupport - YouTube](https://www.youtube.com/@DocSupportLtd)
