@@ -1,3 +1,4 @@
+- [Examination of the hip](https://www.arthritis-uk.org/health-and-care-professionals/training-and-professional-development/clinical-assessment-of-patients-with-musculoskeletal-conditions/the-musculoskeletal-examination-rems/examination-of-the-hip/)
 - [backpain-exercise-sheet.pdf](https://www.arthritis-uk.org/media/21786/backpain-exercise-sheet.pdf)
 - [Chandrayan Pidu - playlist by yazeerr | Spotify](https://open.spotify.com/playlist/4RBRsxMVhlRv068xUk3Ku0)
 - [With a Year's worth of Workouts, This Dumbbell Training Plan Will Make You Unrecognisable](https://www.menshealth.com/uk/workouts/a44128805/dumbbell-workout-plan/)
