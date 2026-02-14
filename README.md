@@ -1,3 +1,4 @@
+- [jlcodes99/cockpit-tools](https://github.com/jlcodes99/cockpit-tools)
 - [Releases · jlcodes99/cockpit-tools](https://github.com/jlcodes99/cockpit-tools/releases)
 - [How to reset the login password · NginxProxyManager/nginx-proxy-manager · Discussion #1634](https://github.com/NginxProxyManager/nginx-proxy-manager/discussions/1634)
 - [SCA toolkit: Global skills](https://www.rcgp.org.uk/mrcgp-exams/simulated-consultation-assessment/toolkit-global-skills)
