@@ -1,3 +1,4 @@
+- [Google Antigravity](https://antigravity.google/download/linux)
 - [jlcodes99/cockpit-tools](https://github.com/jlcodes99/cockpit-tools)
 - [Releases · jlcodes99/cockpit-tools](https://github.com/jlcodes99/cockpit-tools/releases)
 - [How to reset the login password · NginxProxyManager/nginx-proxy-manager · Discussion #1634](https://github.com/NginxProxyManager/nginx-proxy-manager/discussions/1634)
