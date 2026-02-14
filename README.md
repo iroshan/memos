@@ -1,3 +1,4 @@
+- [Authentication - File Browser](https://filebrowser.org/authentication.html)
 - [Google Antigravity](https://antigravity.google/download/linux)
 - [jlcodes99/cockpit-tools](https://github.com/jlcodes99/cockpit-tools)
 - [Releases · jlcodes99/cockpit-tools](https://github.com/jlcodes99/cockpit-tools/releases)
