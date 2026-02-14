@@ -1,3 +1,4 @@
+- [Forums :: View Topic: How to setup a Dynamic Seedbox | My Anonamouse](https://www.myanonamouse.net/f/t/62162)
 - [Authentication - File Browser](https://filebrowser.org/authentication.html)
 - [Google Antigravity](https://antigravity.google/download/linux)
 - [jlcodes99/cockpit-tools](https://github.com/jlcodes99/cockpit-tools)
