@@ -1,3 +1,4 @@
+- [SCA toolkit: Global skills](https://www.rcgp.org.uk/mrcgp-exams/simulated-consultation-assessment/toolkit-global-skills)
 - [Forums :: View Topic: How to setup a Dynamic Seedbox | My Anonamouse](https://www.myanonamouse.net/f/t/62162)
 - [Authentication - File Browser](https://filebrowser.org/authentication.html)
 - [Google Antigravity](https://antigravity.google/download/linux)
