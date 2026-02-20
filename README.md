@@ -1,3 +1,4 @@
+- [Delf Prim A1 Production orale: How to introduce yourself in french (audio included)](https://www.french-exam.com/delf-prim-a1-production-orale-practice-part-1/)
 - [t-mart/mousehole](https://github.com/t-mart/mousehole)
 - [SCA toolkit: Global skills](https://www.rcgp.org.uk/mrcgp-exams/simulated-consultation-assessment/toolkit-global-skills)
 - [Forums :: View Topic: How to setup a Dynamic Seedbox | My Anonamouse](https://www.myanonamouse.net/f/t/62162)
