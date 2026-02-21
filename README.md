@@ -1,3 +1,4 @@
+- [(182) Squat (Bodyweight) | Fit for the 500 | IU Health Sports Performance - YouTube](https://www.youtube.com/watch?v=8uoaYwS6iFM)
 - [DELF-A1-SAMPLE-PAPER](https://www.linguaquestfr.com/delf_a1_samplepaper/)
 - [NLF Academy : French Course](https://www.skool.com/nlf-academy/about)
 - [Delf Prim A1 Production orale: How to introduce yourself in french (audio included)](https://www.french-exam.com/delf-prim-a1-production-orale-practice-part-1/)
