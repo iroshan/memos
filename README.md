@@ -1,3 +1,4 @@
+- [The magic of medicine – The Inner Consultation revisited – BJGP Life](https://bjgplife.com/the-magic-of-medicine-the-inner-consultation-revisited/)
 - [Moe Memos](https://memos.moe/)
 - [(182) Stop Doing "100 Pushups A Day" (I'M BEGGING YOU!) - YouTube](https://www.youtube.com/watch?v=ThyVhkr2964)
 - [(182) Squat (Bodyweight) | Fit for the 500 | IU Health Sports Performance - YouTube](https://www.youtube.com/watch?v=8uoaYwS6iFM)
