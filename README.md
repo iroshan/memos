@@ -1,3 +1,4 @@
+- [Open SLUM 2.0: The Shadow Library Uptime Monitor](https://open-slum.pages.dev/)
 - [WeLib - 43 million books, 98 million papers. All free. All yours.](https://welib.org/)
 - [SCA Resources | NHS England – North West, Postgraduate Medical and Dental Education](/sca-resources)
 - [The magic of medicine – The Inner Consultation revisited – BJGP Life](https://bjgplife.com/the-magic-of-medicine-the-inner-consultation-revisited/)
