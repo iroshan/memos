@@ -1,3 +1,4 @@
+- [audiobookshelf client](https://www.reddit.com/r/audiobookshelf/comments/1rd4q5v/i_know_i_know_another_i_made_an_app_post_but_hear/)
 - [Open SLUM 2.0: The Shadow Library Uptime Monitor](https://open-slum.pages.dev/)
 - [WeLib - 43 million books, 98 million papers. All free. All yours.](https://welib.org/)
 - [SCA Resources | NHS England – North West, Postgraduate Medical and Dental Education](/sca-resources)
