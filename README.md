@@ -1,3 +1,4 @@
+- [Dialogues for a neglected illness - Dialogues](https://www.dialogues-mecfs.co.uk/)
 - [Home | Mast Cell Action](https://www.mastcellaction.org/)
 - [Cambridgeshire and Peterborough ME/CFS Team](https://cambspborochildrenshealth.nhs.uk/services/cambridgeshire-and-peterborough-mecfs-team/)
 - [Home | Mast Cell Action](https://www.mastcellaction.org/)
