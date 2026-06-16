@@ -1,3 +1,4 @@
+- [Downloads / Winhanced](https://www.winhanced.com/support)
 - [Video : A 20 minute Crash Course In Self-Hypnosis](https://aecollegeofhypnosis.uk/video-a-20-minute-crash-course-in-self-hypnosis/)
 - [Dialogues for a neglected illness - Dialogues](https://www.dialogues-mecfs.co.uk/)
 - [Dialogues for a neglected illness - Dialogues](https://www.dialogues-mecfs.co.uk/)
