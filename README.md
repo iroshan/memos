@@ -1,3 +1,4 @@
+- [HizSearch - Game Search Engine](https://hizsearch.pages.dev/)
 - [Nobara Linux | The Nobara Project](https://nobaraproject.org/)
 - [Downloads / Winhanced](https://www.winhanced.com/support)
 - [Video : A 20 minute Crash Course In Self-Hypnosis](https://aecollegeofhypnosis.uk/video-a-20-minute-crash-course-in-self-hypnosis/)
