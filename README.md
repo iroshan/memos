@@ -1,3 +1,4 @@
+- [consultation models and csa frameworks – Bradford VTS](https://www.bradfordvts.co.uk/communication-skills/consultation-models/)
 - [SCA – Bradford VTS](https://www.bradfordvts.co.uk/mrcgp/sca/)
 - [full-csa-cases – Bradford VTS](https://www.bradfordvts.co.uk/mrcgp/sca/full-csa-cases/)
 - [Pass MRCGP SCA Consults  | Mentor MRCGP Courses](https://www.mentormeducation.com/mentorscaconsults)
