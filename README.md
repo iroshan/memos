@@ -1,3 +1,4 @@
+- [SCA – Bradford VTS](https://www.bradfordvts.co.uk/mrcgp/sca/)
 - [consultation models and csa frameworks – Bradford VTS](https://www.bradfordvts.co.uk/communication-skills/consultation-models/)
 - [SCA – Bradford VTS](https://www.bradfordvts.co.uk/mrcgp/sca/)
 - [full-csa-cases – Bradford VTS](https://www.bradfordvts.co.uk/mrcgp/sca/full-csa-cases/)
