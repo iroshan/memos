@@ -1,3 +1,4 @@
+- [MRCGP SCA Consultation Guides: Skills, Structure & Phrases — MRCGP SCA Exam Revision Cases](https://www.scarevision.co.uk/howtohandle)
 - [consultation models and csa frameworks – Bradford VTS](https://www.bradfordvts.co.uk/communication-skills/consultation-models/)
 - [SCA – Bradford VTS](https://www.bradfordvts.co.uk/mrcgp/sca/)
 - [consultation models and csa frameworks – Bradford VTS](https://www.bradfordvts.co.uk/communication-skills/consultation-models/)
