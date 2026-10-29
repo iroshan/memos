@@ -1,3 +1,4 @@
+- [Handy](https://handy.computer/)
 - [Become a member of the PCWHS](https://www.pcwhs.co.uk/join/)
 - [SCA Vault. 21 hours of SCA teaching for £55](https://scavault.com/)
 - [Akshayykadam/PixelBoard](https://github.com/Akshayykadam/PixelBoard?utm_source=gemini&hl=en-GB)
